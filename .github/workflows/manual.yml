@@ -42,12 +42,9 @@ jobs:
           git config --local user.name "dabaozhai"
           git add .
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          git push
           
-      - name: push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
- 
+  
           
           
           
