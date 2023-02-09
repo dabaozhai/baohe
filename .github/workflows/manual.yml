@@ -45,7 +45,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          push_options: --force
           
           
           
