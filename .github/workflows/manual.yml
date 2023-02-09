@@ -40,7 +40,7 @@ jobs:
         run: |
           git config --local user.email "zhaitongbao@gmail.com"
           git config --local user.name "dabaozhai"
-          git add -A
+          git add .
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
           
       - name: push changes
