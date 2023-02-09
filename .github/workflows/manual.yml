@@ -42,10 +42,11 @@ jobs:
           git config --local user.name "dabaozhai"
           git add .
           git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
+          
       - name: push files  
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.UPDATE_TOKEN }}
           branch: ${{ github.ref }}
           
   
