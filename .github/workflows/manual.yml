@@ -20,6 +20,6 @@ jobs:
     steps:
     - name: update
       run: |
-        python ./main.py
+        python ../main.py
         
         
