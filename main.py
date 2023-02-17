@@ -60,9 +60,9 @@ if __name__ == '__main__':
             # "epg.pm 测试频道": "https://epg.pm/static/sitemap/test_channels_all.m3u"
             }
     content_new = ""
+    content_end = ""
     for y in yuan:
         content_new += "💞{0},#genre#\n{1}".format(y, getTvList(y, yuan[y]))
-
     with open('xxtv.txt', 'r') as f:
         content_end += "\n💞{0},#genre#\n{1}".format(y, f.read())
     with open("tv_list.txt", "w", encoding="utf-8") as f:
