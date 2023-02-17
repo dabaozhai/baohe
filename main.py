@@ -64,7 +64,7 @@ if __name__ == '__main__':
     for y in yuan:
         content_new += "💞{0},#genre#\n{1}".format(y, getTvList(y, yuan[y]))
     with open('xxtv.txt', 'r') as f:
-        content_end += "\n💞{0},#genre#\n{1}".format(y, f.read())
+        content_end += "\n💞{0},#genre#\n{1}".format("成人频道1", f.read())
     with open("tv_list.txt", "w", encoding="utf-8") as f:
         url = "https://agit.ai/guot54/ygbh/raw/branch/master/zB/zB.txt"
         content = requests.get(url, timeout=5).content.decode("utf-8")
