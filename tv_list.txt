@@ -34955,7 +34955,7 @@ Playboy,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/527/index.m3u8
 Sexto Senso,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/875/index.m3u8
 Penthouse Quickies 1300k,http://he11o.akadatel.com/iptv/DSVPF5Z9B55L4A/5012/index.m3u8
 
-💞AILE-TV,#genre#
+💞成人频道1,#genre#
 ﻿直播 720,http://cdn.adultiptv.net/livecams.m3u8
 肛交 720,http://cdn.adultiptv.net/anal.m3u8
 巨尻 720,http://cdn.adultiptv.net/bigass.m3u8
