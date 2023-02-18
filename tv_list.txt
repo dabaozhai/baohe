@@ -28063,36 +28063,40 @@ VRT HD,https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 RIZE TÜRK,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
  YANSIMA SİNEMA TV,https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
  YANSIMA KLASİK TV,https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
- TELE ON,https://is.gd/C5SvQJ/teleontv.m3u8
  EM TV,http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 TV48,https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
  CINE1 TV,https://is.gd/8nnZlr/cıne1.m3u8
 tiviTÜRK ,https://stream.tiviturk.de/live/tiviturk.m3u8
+ Kanal Avrupa,http://51.15.2.151/hls/kanalavrupa.m3u8
+ Tokat TV,https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
+ Boztepe TV,https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
+Bartın TV,http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
+SÜMBÜL TV,http://dengezelaltv65.ozelip.com:26516/denge/denge/playlist.m3u8
 FİL TV,https://umt02.videobulut.com/35/3811/npMXAKZTZbC1/npMXAKZTZbC1.m3u8
 FİLMAX,https://umt02.videobulut.com/1/3811/wX1Zs5npRVfn/wX1Zs5npRVfn.m3u8
 FILM CLUB,https://umt02.videobulut.com/35/3811/b77Z185M3ujd/b77Z185M3ujd.m3u8
-FILM CLUB KOMEDİ,https://umt02.videobulut.com/1/3811/RXEsE1nTwVd5/RXEsE1nTwVd5.m3u8
-FILM CLUB FAMILY,https://umt02.videobulut.com/1/3811/9Edss8dRhbh9/9Edss8dRhbh9.m3u8
 FILMBOX,http://germanydnsx3.com:8000/ismailar/1021Zcr1021/89282
-Marvel Sinematik Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65275
-Marvel Sinematik 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65277
 tiviTÜRK ,https://stream.tiviturk.de/live/tiviturk.m3u8
  EM TV,http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 RIZE TÜRK,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
-TV48,https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
- TELE ON,https://is.gd/C5SvQJ/teleontv.m3u8
  EM TV,http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 TV48,https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
 tiviTÜRK ,https://stream.tiviturk.de/live/tiviturk.m3u8
-ŞABAN TV,https://bit.ly/406KoxS
-KEMAL SUNAL 1,http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124133
-KEMAL SUNAL 2,http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124134
-KEMAL SUNAL 4,http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124135
-KEMAL SUNAL 5,http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124136
-KEMAL SUNAL 6,http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124137
-YESILCAM DINAMIK TV,http://khyn.rkt2022.xyz:8080/frk3387/frk.3387/124142
+ Öncü TV,https://broadcasttr.com:446/oncurtv/bant1/chunklist_w658442161.m3u8
 TV4,https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 TVA,http://yerelmedya.tv:1935/tva/bant1/playlist.m3u8
+ Aras TV,http://1.rtmp.org/tv217/yayin.stream/chunklist_w1620641153.m3u8
+Anadolu RTV,https://broadcasttr.com:446/anadolurtv/bant1/chunklist_w827437696.m3u8
+ Köroğlu TV,https://broadcasttr.com:446/koroglutv/bant1/chunklist_w970510302.m3u8
+ Derincem TV,http://tv86905.radyotelekomtv.com:22808/derincemtv/derincemtv/playlist.m3u8
+ Ordu ORT TV,https://broadcasttr.com:446/orttv/bant1/chunklist_w51470567.m3u8
+ ETV Manisa,http://broadcasttr.com:1935/manisaetv/bant1/chunklist.m3u8
+ FRT Fethiye,https://broadcasttr.com:446/frttv/bant1/chunklist_w240577799.m3u8
+Gaziantep Olay TV,http://yerelmedya.tv:1935/olaytv/_definst_/bant1/playlist.m3u8
+ Kanal Fırat,https://waw2.artiyerelmedya.net/kanalfirat/bant1/playlist.m3u8
+ Kanal Urfa,https://broadcasttr.com:446/kanalurfa/bant1/chunklist_w1125528664.m3u8
+ GRT Gaziantep,https://waw1.artiyerelmedya.net/grt/bant1/chunks.m3u8
+ Gurbet 24 Erzincan,http://cdn1-gurbet24.yayin.com.tr/gurbet24/ngrp:gurbet24/playlist.m3u8
 SZC tv TEST,http://nx4545.xyz:80/mert924bn/231020.ft/118378
 TMB,http://nx4545.xyz:80/mert924bn/231020.ft/28271
 NTV,https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.2:10001
@@ -28140,8 +28144,6 @@ TASKRÜT MOVİES ACTION,http://nx4545.xyz:8080/mert924bn/231020.ft/55
 TASKRÜT MOVİES ACTION 2,http://nx4545.xyz:8080/mert924bn/231020.ft/56
 TASKRÜT MOVİES FAMILY,http://nx4545.xyz:8080/mert924bn/231020.ft/58
 TASKRÜT MOVİES TÜRK,http://nx4545.xyz:8080/mert924bn/231020.ft/59
-MOVIESMART CLASSIC,http://nx4545.xyz:8080/mert924bn/231020.ft/187
-MOVIESMART TÜRK,http://nx4545.xyz:80/mert924bn/231020.ft/174
 SINEMA TV,http://nx4545.xyz:80/mert924bn/231020.ft/82
 SINEMA 2,http://nx4545.xyz:80/mert924bn/231020.ft/110
 SINEMA AKSIYON,http://nx4545.xyz:80/mert924bn/231020.ft/90
@@ -28163,16 +28165,10 @@ BİR TV HD,https://h59.artiyerelmedya.net/birtv/bant1/chunks.m3u8
 AKTİF TV,http://tv86905.radyotelekomtv.com:22808/aktif/aktif/chunklist.m3u8
  DÜZGÜN TV,http://duzguntv1616.ozelip.net:25192/duzguntv/duzguntv/playlist.m3u8
  ADA TV NET HD,https://edge1.socialsmart.tv/adatv/bant1/chunks.m3u8
- BEYAZ SİNEMA HD,http://beyazmedyatv.yayin.com.tr/beyazmedyatv-yabanci/video.m3u8
- BEYAZ YESiLCAM HD,http://beyazmedyatv.yayin.com.tr/beyazmedyatv-yesilcam/video.m3u8
- BEYAZ DiZi HD,http://cdn-beyazmedyatv.yayin.com.tr/beyazmedyatv-dizi/tracks-v1a1/mono.m3u8
-KANAL 18,https://59cba4d34b678.streamlock.net/canlitv/cankiritv/playlist.m3u8
-KANAL 19,https://vdo.digitalbox.xyz:3644/live/kanal19tvlive.m3u8
  SÜPER TÜRK HD,http://157.230.106.252:3923/hybrid/play.m3u8
 Fark türk  ,http://91.134.203.253:30124/farkturktv/farkturktv/chunklist.m3u8
  CINE5 TV HD,https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist.m3u8
 KOBiM TV HD,http://cdn-kobimtv.yayin.com.tr/kobimtv/kobimtv/chunklist.m3u8
-AKILLI TV,http://iptvmasterlink.dyndns.org:8080/AkilliTv/playlist.m3u8
  CLC MEDYA TV HD,https://clcmediatv.ozelip.com:3192/stream/play.m3u8
  KANAL İSTANBUL HD,https://cdn1-kanalistanbultv.yayin.com.tr/kanalistanbultv/amlst:kanalistanbultv/chunklist.m3u8
  iSTANBUL TV HD,http://streaming.netdirekt.com.tr:80/35757/msyapi/chunks.m3u8
@@ -28263,7 +28259,6 @@ TR: VIZIOON FESTIVAL,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61917.
 TR: VIZIOON FESTIVAL 2,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61918.ts
 TR: VIZIOON PREMIER,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61919.ts
 TR: VIZIOON PREMIER 2,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61920.ts
-TR: Sky Turk 4K,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61921.ts
 TR: Sky Turk Aile,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61922.ts
 TR: Sky Turk Aksiyon,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61923.ts
 TR: Sky Turk gerilim,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61924.ts
@@ -28311,13 +28306,6 @@ TR: KEMAL SUNAL TV,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61965.ts
 TR: Movie Max Kemal Sunal TV,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61966.ts
 TR: CUNEYT ARKIN TV,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61967.ts
 TR: SENER SEN YESILCAM,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/61968.ts
-TR: I DSMART | DIZI SMART MAX FHD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/33108.ts
-TR I DSMART | DIZI SMART PREMIUM FHD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/33109.ts
-TR I beIN Sc-Fi HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5104.ts
-TR I beIN Series Drama HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5152.ts
-TR I beIN Series Vice HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5151.ts
-TR I beIN DiziMax Comedy HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5150.ts
-TR I DIZISMART PREMIUM (D-SMART),http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/8173.ts
 TR I FOX CRIME ULTRA HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5149.ts
 TR I FX FULL ULTRA HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5147.ts
 TR I TRT 1 ULTRA HD,http://xtreamtv.live:8080/live/orx5ch7yek/tbyppnu7R1/5146.ts
@@ -28334,38 +28322,6 @@ BOX OFFICE,http://nx4545.xyz:8080/mert924bn/231020.ft/226
 FILMBOX,http://germanydnsx3.com:8000/ismailar/1021Zcr1021/89282
 FILMBOX ARTHOUSE,http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/63575
 FILMBOX EXTRA,http://fullnetiptv.xyz:8080/zekayiyilmaz/kRV3PH9DmCnK/6357
-DİZİSMART MAX,http://nx4545.xyz:8080/mert924bn/231020.ft/205
- SERIES SCI-FI,http://nx4545.xyz:8080/mert924bn/231020.ft/60
- SERIES COMEDY,http://nx4545.xyz:8080/mert924bn/231020.ft/21975
- SERIES DRAMA,http://nx4545.xyz:8080/mert924bn/231020.ft/62
-DİZİSMART PREMIUM,http://nx4545.xyz:8080/mert924bn/231020.ft/185
-Bein Movies Premiere Hd,http://nx4545.xyz:80/mert924bn/231020.ft/53
-Bein Movies Premiere 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54
-Bein Movies Action Hd,http://nx4545.xyz:80/mert924bn/231020.ft/55
-Bein Movies Action 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/56
-Bein Movies Stars Hd,http://nx4545.xyz:80/mert924bn/231020.ft/57
-Bein Movies Family Hd,http://nx4545.xyz:80/mert924bn/231020.ft/58
-Bein Movies Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/59
-Bein Series Sci-fi Hd,http://nx4545.xyz:80/mert924bn/231020.ft/60
-Bein Series Drama Hd,http://nx4545.xyz:80/mert924bn/231020.ft/62
-Bein Series Vice Hd,http://nx4545.xyz:80/mert924bn/231020.ft/21975
-Bein Series Comedy Hd,http://nx4545.xyz:80/mert924bn/231020.ft/61
-Sinema TV Hd,http://nx4545.xyz:80/mert924bn/231020.ft/82
-Sinema 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/110
-Sinema Aksiyon Hd,http://nx4545.xyz:80/mert924bn/231020.ft/90
-Sinema Aksiyon 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/153
-Sinema Aile Hd,http://nx4545.xyz:80/mert924bn/231020.ft/208
-Sinema Aile 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/114
-Sinema TV Komedi Hd,http://nx4545.xyz:80/mert924bn/231020.ft/106
-Sinema TV Komedi 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/152
-Sinema Yerli Hd,http://nx4545.xyz:80/mert924bn/231020.ft/191
-Sinema Yerli 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/117
-Sinema 1001 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/93
-Sinema 1002 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/99
-Dizi Smart Max Hd,http://nx4545.xyz:80/mert924bn/231020.ft/205
-Dizi Premium Hd,http://nx4545.xyz:80/mert924bn/231020.ft/185
-Movie Smart Classic Hd,http://nx4545.xyz:80/mert924bn/231020.ft/187
-Movie Smart Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/174
 FX Hd,http://nx4545.xyz:80/mert924bn/231020.ft/84
 Vip Channel Hd,http://nx4545.xyz:80/mert924bn/231020.ft/262
 Vip Channel 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/229
@@ -28379,16 +28335,6 @@ Epic Drama HD [ tivibu ],http://nx4545.xyz:80/mert924bn/231020.ft/67186
 Vip Nox Sinema 4k,http://nx4545.xyz:80/mert924bn/231020.ft/21341
 Super Kahramanlar Hd,http://nx4545.xyz:80/mert924bn/231020.ft/224
 Super Kahramanlar 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65976
-Netflix Sinema 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/230
-Netflix Sinema 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/231
-Netflix Sinema 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/232
-Netflix Sinema 4 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/233
-Netflix Sinema 5 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65058
-Netflix Sinema 6 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65062
-Netflix Sinema 7 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65244
-Netflix Sinema 8 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65256
-Netflix Sinema 9 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65257
-Netflix Sinema 10 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65415
 Salon 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/234
 Salon 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/257
 Salon 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/258
@@ -28405,14 +28351,6 @@ Salon 3,http://premium.luginaiptv.com:8000/Armendi/123456/8675
 Loca 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/254
 Loca 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/255
 Loca 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/256
-Bein Box Office 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/226
-Bein Box Office 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/227
-Bein Box Office 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/228
-Netflix Animasyon 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67075
-Netflix Animasyon 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67076
-Netflix Animasyon 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67077
-Netflix Animasyon 4 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67078
-Netflix Animasyon 5 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67079
 Cine + Animasyon 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/253
 Cine + Animasyon 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/265
 Cine + Animasyon 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/266
@@ -28503,15 +28441,6 @@ X Men Serisi Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65061
 Transformers Seri Hd,http://nx4545.xyz:80/mert924bn/231020.ft/21979
 Olacak Okadar 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65501
 NTV SPOR,http://37.221.121.137:6060/hls/trspor/index.m3u8
-TR: Bein SPORTS 1 HD,https://cors.deno.dev/http://vt.protoniumtv.net:1997/iptvtree2021/50DSG3JnyyLK0iaj/51915
-TR: Bein SPORTS 1 HD,https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4649
-TR: Bein SPORTS 1 HD,https://cors.deno.dev/http://vip.itvdom.com:25443/HAJG6/k7bKPqg05y/149526
-TR: beIN SPORTS 1 HD,https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/18947
-TR: beIN SPORT 1 FHD (1080p),https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4658
-TR: beIN SPORTS 1 HEVC,https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4648
-TR: beIN SPORTS 1 FEED,https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4650
-TR: beIN SPORTS 1 FHD FEED,https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/24511
-TR: beIN SPORTS 2 FHD,https://cors.deno.dev/http://sssxxx.tk:8080/stremlocal1047/ER7UVVyGzwtdGra/4651
 TR - DISCOVERY IDX HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/1304.ts
 TR - DISCOVERY CHANNEL HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/38.ts
 TR - DISCOVERY SCIENCE HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/41124.ts
@@ -28535,228 +28464,11 @@ TR - ANIMAUX HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akinci
 TR- BEIN GURME HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/41996.ts
 TR- BEIN IZ HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/53422.ts
 TR- 24 KITCHEN HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akincimedia2016/egoGdif1kK/53420.ts
--------------- | HABER | --------------,http://nx4545.xyz:80/mert924bn/231020.ft/271
-haber 61,http://nx4545.xyz:80/mert924bn/231020.ft/65629
-A Haber Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/119
-A Haber Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34365
-NTV Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/171
-NTV Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34367
-CNN Turk Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/141
-CNN Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34366
-Haberturk Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/127
-Haberturk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34368
-TRT Haber Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34369
-TRT Haber Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/213
-TGRT Haber Hd,http://nx4545.xyz:80/mert924bn/231020.ft/112
-Haber Global Hd,http://nx4545.xyz:80/mert924bn/231020.ft/87
-Haber Global Sd,http://nx4545.xyz:80/mert924bn/231020.ft/34372
-Halk Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/182
-Halk Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34370
-Ulusal Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/159
-Ulusal Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34371
-Kanal 24 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/149
-KRT Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/216
-Th Turk Haber Hd,http://nx4545.xyz:80/mert924bn/231020.ft/35963
-BBN Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67074
-Boomberght Hd,http://nx4545.xyz:80/mert924bn/231020.ft/142
-A Para Hd,http://nx4545.xyz:80/mert924bn/231020.ft/146
-Haber 61 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/218
-360 Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/217
-Tv 100 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/186
-Uzay Haber Hd,http://nx4545.xyz:80/mert924bn/231020.ft/116
-Uygur News,https://592f1881b3d5f.streamlock.net:1443/santraltv_742/santraltv_742/chunklist_w1831156978.m3u8
--------------- | COCUK | --------------,http://nx4545.xyz:80/mert924bn/231020.ft/273
-Vip Channel Animasyon HD,http://nx4545.xyz:80/mert924bn/231020.ft/135267
-TRT Cocuk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/160
-Nickeledeon Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54199
-Nick jr Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28346
-Baby Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/198
-Smart Cocuk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/204
-Disney Junior Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28345
-CBeebies BBC Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28348
-Cartoon Network Hd,http://nx4545.xyz:80/mert924bn/231020.ft/138
-Minika Cocuk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/156
-Minika GO Hd,http://nx4545.xyz:80/mert924bn/231020.ft/121
-Boom Erang Hd,http://nx4545.xyz:80/mert924bn/231020.ft/113
-Rafadan Tayfa Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54200
-Niloya Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16842
-Kukuli Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16843
-Kral Sakir Hd,http://nx4545.xyz:80/mert924bn/231020.ft/64743
-Sevimli Dostlar Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16844
-Oddbods Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54260
-Sirinler Sd,http://nx4545.xyz:80/mert924bn/231020.ft/54201
-Kanal 7 Cocuk Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16845
-Pepe Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16846
-Masa ile Koca Ayi Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16847
-Jetgiller Cocuk,http://nx4545.xyz:80/mert924bn/231020.ft/65053
-Tom and Jerry Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54390
-Mini Anime Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16848
-Kayu Cocuk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65400
-Kral Sakir 23 Nisan,http://nx4545.xyz:80/mert924bn/231020.ft/65475
-Yumucak Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65401
-Nox Animasyon Cocuk 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/16849
-Disney Chanell HD,http://nx4545.xyz:80/mert924bn/231020.ft/16850
-Nox Animasyon Cocuk 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65454
-Nox Animasyon Cocuk 4 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65453
 -------------- | MUZIK | --------------,http://nx4545.xyz:80/mert924bn/231020.ft/65059
 FİLODİ,https://umt02.videobulut.com/35/3811/M66VuK1TyKCw/M66VuK1TyKCw.m3u8
 Slow Karadeniz TV,https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
-VRT_FM ,https://is.gd/pmdmO7/VRT_FM.m3u8
 Slow Karadeniz FM ,https://dinle.slowkaradenizfm.com:9578/
-Karadeniz Türk ,Kral Pop Muzik,http://nx4545.xyz:80/mert924bn/231020.ft/67694
-DreamTurk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/132
-Tatlises Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/137
-Nr1 Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/118
-Power Hd,http://nx4545.xyz:80/mert924bn/231020.ft/115
-Trace Urban Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67185
-360 Tunebox Hd,http://nx4545.xyz:80/mert924bn/231020.ft/23374
-MCM HD,http://nx4545.xyz:80/mert924bn/231020.ft/73029
-VH 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/73030
-MTV LIVE HD,http://nx4545.xyz:80/mert924bn/231020.ft/73031
-TRT Kurdi Hd,http://nx4545.xyz:80/mert924bn/231020.ft/17145
-Netd Muzik Turkce Pop 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/17147
-Netd HIT STOP Turkey Hd,http://nx4545.xyz:80/mert924bn/231020.ft/17148
-Netd Muzik Dance Hd,http://nx4545.xyz:80/mert924bn/231020.ft/17149
-Netd Muzik Hd,http://nx4545.xyz:80/mert924bn/231020.ft/275
-Netd T Rap Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54394
-Netd Muzik Turkce Pop Hd,http://nx4545.xyz:80/mert924bn/231020.ft/17150
-Ferdi Tayfur Muzik Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65758
-Muslum Gurses Hd,http://nx4545.xyz:80/mert924bn/231020.ft/64679
-Duck Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65500
--------------- | YEREL | --------------,http://nx4545.xyz:80/mert924bn/231020.ft/269
-KANAL 6tv,https://host.onlineradyotv.net:8081/channel6tv/index.m3u8
-Trek Hd,http://nx4545.xyz:80/mert924bn/231020.ft/23375
-Kibris Genc Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/68
-Kibris Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/72
-Brt 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/79
-Tv5 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/91
-Tlc Hd,http://nx4545.xyz:80/mert924bn/231020.ft/109
-Cay Tv  Hd,http://nx4545.xyz:80/mert924bn/231020.ft/120
-Kanal 68 Aksaray Hd,http://nx4545.xyz:80/mert924bn/231020.ft/128
-Ekoturk Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/131
-Diyanet Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/136
-38 Kent Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/140
-Bengu Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/144
-Edessa Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/150
-Ulke Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/145
-Fm Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/157
-Kanal V (antalya) Hd,http://nx4545.xyz:80/mert924bn/231020.ft/162
-Kanal T Hd,http://nx4545.xyz:80/mert924bn/231020.ft/163
-Kibris Ada Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/165
-Kon Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/167
-Lalegul Hd,http://nx4545.xyz:80/mert924bn/231020.ft/173
-Dost Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/176
-Kudus Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/179
-Mavi Karadeniz Hd,http://nx4545.xyz:80/mert924bn/231020.ft/181
-Tele 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/195
-Cem Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/199
-Tv 264 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28268
-Tbm Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28271
-Ordu  Altas Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28272
-Kanal 68 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28273
-Pamukkale Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28275
-Er Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28276
-Tv35 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28277
-Tv Kayseri Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28279
-Kanal Firat Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28280
-Yeni Kocaleli Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28283
-Koza Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28285
-Kanal Avrupa Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28286
-Tempo Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28288
-Tv 52 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28291
-Kanal Urfa Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28292
-Line Tv Hd ,http://nx4545.xyz:80/mert924bn/231020.ft/28295
-Vizyon 58 Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/54229
-TRT Arabi Hd,http://nx4545.xyz:80/mert924bn/231020.ft/63891
-A Vuslat Tv Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63894
-ZAZA TV,http://nx4545.xyz:80/mert924bn/231020.ft/63895
-Beykent Tv Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63896
-Bitlis Tv Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63897
-Ekinturk Tv Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63898
-Kanal 15 Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63902
-Kanal 32 Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63903
-Kanal 33 Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63904
-Karadeniz Turk Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63905
-Bartin TV,http://nx4545.xyz:80/mert924bn/231020.ft/63906
-Mercan Tv Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63907
-Rehber Tv Sd,http://nx4545.xyz:80/mert924bn/231020.ft/63910
-Kanal 3 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/28296
-Vav TV Hd,http://nx4545.xyz:80/mert924bn/231020.ft/65409
-Saudi Sunnah Sd,http://nx4545.xyz:80/mert924bn/231020.ft/65410
-Tv Em Hd,http://nx4545.xyz:80/mert924bn/231020.ft/17844
-Semerkant Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/29426
-Akit Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/29466
-TRT Avaz Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34388
-Anadolu Dernek Tv,http://nx4545.xyz:80/mert924bn/231020.ft/34389
-Kardelen Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34390
-Rumeli Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/34391
-Show Max Hd,http://nx4545.xyz:80/mert924bn/231020.ft/35958
-Koy Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/52639
-Kabe (Canli) AL Quran Sd,http://nx4545.xyz:80/mert924bn/231020.ft/65411
-Cifci Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/53840
-A News Hd,http://nx4545.xyz:80/mert924bn/231020.ft/73025
-TRT EL Arabia,http://nx4545.xyz:80/mert924bn/231020.ft/73026
-Rai News 24 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/73027
-Tv 2020 SD,http://nx4545.xyz:80/mert924bn/231020.ft/138022
-Teve 63 SD,http://nx4545.xyz:80/mert924bn/231020.ft/138023
-Luys Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138024
-Lider Haber SD,http://nx4545.xyz:80/mert924bn/231020.ft/138025
-Kanal S SD,http://nx4545.xyz:80/mert924bn/231020.ft/138026
-Kanal Antalya SD,http://nx4545.xyz:80/mert924bn/231020.ft/138027
-Yeşilyol Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138028
-Mek TV SD,http://nx4545.xyz:80/mert924bn/231020.ft/138029
-Koza Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138030
-Cadde Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138031
-World Türk SD,http://nx4545.xyz:80/mert924bn/231020.ft/138032
-Tv Den SD,http://nx4545.xyz:80/mert924bn/231020.ft/138033
-Sat 7 Türk SD,http://nx4545.xyz:80/mert924bn/231020.ft/138034
-Malatya Vuslat Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138035
-Br Tv Anadolu SD,http://nx4545.xyz:80/mert924bn/231020.ft/138036
-Bir Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138037
-Brt 2 HD (Kıbrıs),http://nx4545.xyz:80/mert924bn/231020.ft/138038
-Brt 3 HD (Kıbrıs),http://nx4545.xyz:80/mert924bn/231020.ft/138039
-Kadırga Tv SD,http://nx4545.xyz:80/mert924bn/231020.ft/138040
-Aljazeera Hd,http://nx4545.xyz:80/mert924bn/231020.ft/73028
-MC EU Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67241
-Love Nature Hd,http://nx4545.xyz:80/mert924bn/231020.ft/67242
-Fashion Box,http://nx4545.xyz:80/mert924bn/231020.ft/67697
-TRT 3 TBMM,http://nx4545.xyz:80/mert924bn/231020.ft/67700
-TRT 1 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/158
-TRT 1 Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/161
-TRT 1 Hd-b,http://nx4545.xyz:80/mert924bn/231020.ft/131104
-Atv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/139
-Atv Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/108
-Atv Uhd,http://nx4545.xyz:80/mert924bn/231020.ft/21427
-Atv Euro Hd,http://nx4545.xyz:80/mert924bn/231020.ft/170
-Show Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/130
-Show Tv Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/209
-Show Euro,http://nx4545.xyz:80/mert924bn/231020.ft/175
-Star Hd,http://nx4545.xyz:80/mert924bn/231020.ft/126
-Star Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/201
-Star Euro Hd,http://nx4545.xyz:80/mert924bn/231020.ft/178
-Kanal D Hd,http://nx4545.xyz:80/mert924bn/231020.ft/143
-Kanal D Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/73
-Kanal D Euro,http://nx4545.xyz:80/mert924bn/231020.ft/172
-Fox Hd,http://nx4545.xyz:80/mert924bn/231020.ft/135
-Fox Tv Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/89
-Tv8 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/124
-Tv8 Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/148
-Tv 8 Int Hd,http://nx4545.xyz:80/mert924bn/231020.ft/63947
-Tv8.5 Fhd,http://nx4545.xyz:80/mert924bn/231020.ft/88
-Tv8.5 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/155
-Teve 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/154
-Beyaz Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/22585
-Beyaz Tv Hd,http://nx4545.xyz:80/mert924bn/231020.ft/122
-Kanal 7 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/151
-Kanal 7 Avrupa Hd,http://nx4545.xyz:80/mert924bn/231020.ft/35959
-A2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/147
-TRT Turk Hd,http://nx4545.xyz:80/mert924bn/231020.ft/97
-TRT World Hd,http://nx4545.xyz:80/mert924bn/231020.ft/94
-TRT Eba Tv ilkokul Hd,http://nx4545.xyz:80/mert924bn/231020.ft/21600
-TRT Eba Tv Ortaokul Hd,http://nx4545.xyz:80/mert924bn/231020.ft/21601
-TRT Eba Tv Lise Hd,http://nx4545.xyz:80/mert924bn/231020.ft/21602
-TRT 2 Hd,http://nx4545.xyz:80/mert924bn/231020.ft/21489
-💞月光宝盒,#genre#
+Karadeniz Türk,💞月光宝盒,#genre#
 西藏卫视,https://tv.vtibet.cn/live/EfgSmE4jCTBtvchannel3.m3u8
 影视文化,https://tv.vtibet.cn/live/FYeIdVzzCTBtvchannel2.m3u8
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
