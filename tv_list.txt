@@ -1,3 +1,4 @@
+
 💞4K 8K,#genre#
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
@@ -80,6 +81,7 @@ BesTV-4K,http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/000000010000000600000000000
 河南4K,http://[2409:8087:4400:20:1:a0f:12:33]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 芒果娱乐4K,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 纯享4K,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225786/index.m3u8
+
 💞BestTV,#genre#
 CCTV16-4K,https://live.v1.mk/api/bestv.php?id=cctv16hd4k/15000000
 CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
@@ -174,6 +176,7 @@ CCTV17 8M,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 金色学堂 8M,https://live.v1.mk/api/bestv.php?id=jingsepd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
+
 💞爱尚TV,#genre#
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://159.75.85.63:5679/cctv4k.php
@@ -241,6 +244,7 @@ CHC家庭影院,https://live.v1.mk/aishang/chcjtyy
 卡酷少儿 ,https://live.v1.mk/aishang/kkse
 嘉佳卡通 ,https://live.v1.mk/aishang/jjkt
 新动漫,https://live.v1.mk/aishang/xdm
+
 💞CQYX,#genre#
 欢笑剧场4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
 CCTV-4K,http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV4K/__op/default/__f//index.m3u8
@@ -322,6 +326,7 @@ CCTV风云足球高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/fyzqHD/__op/
 CCTV怀旧剧场高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f//index.m3u8
 CCTV第一剧场高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/diyijuchangHD/__op/default/__f//index.m3u8
 CCTV兵器科技高清,http://baidu.live.cqccn.com/__cl/cg:live/__c/bqkjHD/__op/default/__f//index.m3u8
+
 💞GHYX,#genre#
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
@@ -434,6 +439,7 @@ CETV4 标清,https://live.v1.mk/api/ghyx.php?id=CETV4HD_2000
 书画频道 标清,https://live.v1.mk/api/ghyx.php?id=ShuHuaPinDaoHD_2000
 茶频道 标清,https://live.v1.mk/api/ghyx.php?id=ChaPinDaoHD_2000
 足球频道,https://live.v1.mk/api/ghyx.php?id=ZuQiuHD_6000
+
 💞足球,#genre#
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
@@ -725,6 +731,7 @@ Channel K,http://183.89.246.119:8881/play/a080/index.m3u8
 Channel ME ,http://183.89.246.119:8881/play/a07t/index.m3u8
 Fortune TV,http://183.89.246.119:8881/play/a082/index.m3u8
 MM Movie,https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
+
 💞7个豆豆,#genre#
 星空卫视,http://159.75.85.63:8765/telegram@feiyangdigital-xingkong.m3u8 
 广东体育,http://159.75.85.63:8765/telegram@feiyangdigital-gdty.m3u8 
@@ -733,6 +740,7 @@ MM Movie,https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8
 CCTV4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv4k.m3u8 
 CCTV16-4K,http://159.75.85.63:8765/telegram@feiyangdigital-cctv16-4k.m3u8 
 广东综艺4K,http://159.75.85.63:8765/telegram@feiyangdigital-gdzy4k.m3u8
+
 💞APTV 回放测试,#genre#
 CCTV1,http://117.169.120.244:8080/wh7f454c46tw2520989601_203106496/hwrr.jx.chinamobile.com/PLTV/88888910/224/3221225618/index.m3u8?icpid=88888910&amp;RTS=1648965019&amp;from=79102&amp;ocs=2_117.169.120.241_8080&amp;hms_devid=1402&amp;online=1648965019&amp;vqe=3
 CCTV1,http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
@@ -1124,6 +1132,7 @@ NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.
 黑龙江卫视,http://39.135.138.58:18890/TVOD/88888888/224/3221225736/index.m3u8
 黑龙江卫视,http://39.135.138.59:18890/TVOD/88888910/224/3221225690/index.m3u8
 龙江卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
+
 💞APTV 虎牙,#genre#
  久爱-小予神【矛神】,http://live.aptvapp.com/live/huya/503708
  快乐老家,http://live.aptvapp.com/live/huya/880351
@@ -6127,6 +6136,7 @@ NewTV超级电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.
  QQ区金陵,http://live.aptvapp.com/live/huya/22960538
  熊妹撩电影,http://live.aptvapp.com/live/huya/15966357
  小雾夕,http://live.aptvapp.com/live/huya/27952381
+
 💞YanG Gather,#genre#
 8K「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tW1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vge=3
 CCTV16 4K 「IPV6」,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
@@ -10809,6 +10819,7 @@ Zoo Moo,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoo
 CNN,http://50.7.220.74:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
 BBC World News,http://50.7.220.74:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
 SBS World Movies,http://58.96.43.228:9981/stream/channelid/808262435?ticket=4109758E42A9E086718DE2D647F70F3045DB802E&profile=pass
+
 💞YanG 斗鱼,#genre#
 旭旭宝宝,https://epg.112114.xyz/douyu/99999
 昔恩小姐姐,https://epg.112114.xyz/douyu/6301433
@@ -15817,6 +15828,7 @@ MeLeGeBi,https://epg.112114.xyz/douyu/6563119
 搞笑动画葛二蛋啊,https://epg.112114.xyz/douyu/10646699
 星括一萌音小软妹,https://epg.112114.xyz/douyu/10990813
 茶茶zi,https://epg.112114.xyz/douyu/5308102
+
 💞zbefine-m3u,#genre#
 CCTV-1,http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 CCTV-1,http://39.135.138.58:18890/PLTV/88888888/224/3221225630/index.m3u8
@@ -17222,6 +17234,7 @@ NewTV超级电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225765/ind
 广东-车八岭国家级自然保护区,http://gcbsc.v.live.baishancdnx.cn/gc/hsxkscj_1/index.m3u8
 广东-梅州梅江,http://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 广东-汕头市小公园,http://gcksc.v.kcdnvip.com/gc/bsszjs_1/index.m3u8
+
 💞范明明 Global,#genre#
 CCTV-1 综合,http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2 财经,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
@@ -17545,6 +17558,7 @@ GoodTV 真情部落,https://live-350k.streamingfast.net/hls-live/goodtv/_definst
 GoodTV 经典音乐,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
 GunmaTV,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
 WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+
 💞ZHG Playlist,#genre#
 ★★★★★寧波 🇨🇳️★★★★★,http://flv4mp4.people.com.cn/videofile2/pvmsvideo/2015/8/25/WeiQingCheng_e219e4e5df4e4a1e2c532fc9a1cf0772_android_c.mp4
 宁波新闻综合频道高清NBTV-1,http://www.372583307.top:4022/udp/233.50.201.168:5140
@@ -18463,6 +18477,7 @@ AdultIPTV.net Asian,http://cdn.adultiptv.net/asian.m3u8
 抖音歌曲连唱1,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c6ilrmbc77ubdnoksfq0&ratio=720p&line=0
 抖音歌曲连唱2,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000c7o7cujc77u3c0tgih5g&ratio=720p&line=0
 抖音歌曲连唱3,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000c4bb7bjc77u3qo5vuu10&ratio=720p&line=0
+
 💞ZHG CNTV,#genre#
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8
 无线新闻,https://cdn.hklive.tv/xxxx/83/index.m3u8
@@ -21470,6 +21485,7 @@ IPTV5+,http://58.223.161.43/live.aishang.ctlcdn.com/00000110240094_1/encoder/0/p
 IPTV6+,http://58.223.161.43/live.aishang.ctlcdn.com/00000110240007_1/encoder/0/playlist.m3u8?CONTENTID=00000110240007_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR&areano=140800
 IPTV8+,http://58.223.161.43/live.aishang.ctlcdn.com/00000110240125_1/encoder/0/playlist.m3u8?CONTENTID=00000110240125_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR&areano=140800
 IPTV5+,http://58.223.161.43/live.aishang.ctlcdn.com/00000110240281_1/encoder/0/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR&areano=140800
+
 💞ZHG SamsungTVPlus,#genre#
 Entertainment Hub,https://d1wa6bd97begp2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-w17i5m783xt5c-ssai-prd/hls-harvester2-1293-prod-eucentral1/eu-central-1/cc-w17i5m783xt5c/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 The Jamie Oliver Channel,https://d3cuy2e2e6vm8u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lgi0vfbu48v8n-ssai-prd/master.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
@@ -22476,6 +22492,7 @@ ch.핑크퐁,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&chann
 미니특공대TV,https://ads.its-newid.net/api/manifest.m3u8?tp=samsung_tvplus&channel_name=%EB%AF%B8%EB%8B%88%ED%8A%B9%EA%B3%B5%EB%8C%80tv&channel_id=newid_025&apikey=b97c7a7d0c82424bb607e141ef215779&auth=7ce6ea64-d4adc57c-be58d030-0e1edf4a&ads.live=%5BCONTENT_LIVE%5D&ads.device_did=%7BPSID%7D&ads.ifa=%5BIFA%5D&ads.ifatype=%5BIFA_TYPE%5D&ads.lat=%5BLMT%5D&ads.donotsell=%5BDNS%5D&ads.ip=%5BIP%5D&ads.gdpr=%5BGDPR%5D&ads.gdprconsent=%5BGDPR_CONSENT%5D&ads.country=%5BCOUNTRY%5D&ads.us_privacy=%5BUS_PRIVACY%5D&ads.appstoreurl=%5BAPP_STOREURL%5D&ads.bundleid=%5BAPP_BUNDLE%5D&ads.app.name=%7BAPP_NAME%7D&ads.appversion=%5BAPP_VERSION%5D&ads.devicetype=%5BDEVICE_TYPE%5D&ads.devicemake=%5BDEVICE_MAKE%5D&ads.devicemodel=%5BDEVICE_MODEL%5D&ads.targetad=%5BTARGETAD_ALLOWED%5D&ads.content_title=%5BPROGRAM_TITLE%5D&ads.content_series=%5BSERIES_TITLE%5D&ads.content_season=%5BSEASON_TITLE%5D&ads.content_episode=%5BEPISODE_NO%5D&ads.content_length=%5BCONTENT_LENGTH%5D&coppa=1&ads.device.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 투니버스 신비아파트: 고스트볼의 비밀,https://d2jtp2u7s0oid6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jw7peenqm1bog-ssai-prd/4cb8089d_7e08_4435_bc0d_8e2d9ec90dd8/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC8000144F
 투니버스 흔한남매의 안흔한일기2,https://d3pr3fr9fwt060.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ozm53ooqj3t93-ssai-prd/b42dfffd_735f_48f1_ba35_7e87a13dc15a/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC800015MH
+
 💞ZHG EdemTV,#genre#
 Первый FHD,http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/2402/index.m3u8
 Первый канал HD 50,http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/15131/index.m3u8
@@ -26637,6 +26654,7 @@ Eromania 4K,http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/10049/index.m3u8
 DuckTV HD,http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/18138/index.m3u8
 PROKOPTV XXX HD,http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/19401/index.m3u8
 SKY_HIGH_SEX_VR,http://he11o.akadatel.com/iptv/NSZN5B863V6Z9K/19406/index.m3u8
+
 💞茶客,#genre#
 CCTV1,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000/mnf.m3u8
@@ -28045,6 +28063,7 @@ BBC One East Midlands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:p
 BBC One East,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 BBC One Channel Islands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 BBC One West Midlands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+
 💞AILE-TV,#genre#
 TRT1 ᵁᴴᴰ⁺,https://cors.deno.dev/https://tv-trt1-dai.medya.trt.com.tr:443/master_4.m3u8
  TRT 2 FHD,http://167.114.115.233:8080/trt2fhd/index.m3u8
@@ -28469,7 +28488,8 @@ TR- 24 KITCHEN HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akin
 FİLODİ,https://umt02.videobulut.com/35/3811/M66VuK1TyKCw/M66VuK1TyKCw.m3u8
 Slow Karadeniz TV,https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 Slow Karadeniz FM ,https://dinle.slowkaradenizfm.com:9578/
-Karadeniz Türk,💞成人集合1,#genre#
+Karadeniz Türk,
+💞成人集合1,#genre#
 一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
 一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/j3/i6/yf/uj/4c59de88250d4dce94d5e5260a48468a.m3u8?
 一日女友的漂亮姐姐 下,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
