@@ -56,7 +56,7 @@ if __name__ == '__main__':
             "茶客": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
             # "乌云": "https://ghproxy.com/https://raw.githubusercontent.com/wuyun999/wuyun/main/zb/aptv.txt",
             "AILE-TV": "https://ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u",
-            "Adult": "https://raw.githubusercontent.com/dabaozhai/baohe/main/iptv_adult2.m3u",
+            "成人集合1": "https://ghproxy.com/https://raw.githubusercontent.com/dabaozhai/baohe/main/iptv_adult2.m3u",
             # "TVradio": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio",
             # "epg.pm 测试频道": "https://epg.pm/static/sitemap/test_channels_all.m3u"
             }
