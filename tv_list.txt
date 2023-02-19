@@ -28077,7 +28077,8 @@ TV8 ᵁᴴᴰ⁺,https://cors.deno.dev/http://195.142.1.211:4022/udp/224.2.2.33:
 TV8ᴴᴰ⁺,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.tv8.com.tr/canli-yayin&m3u8
 TV8'5 ᵁᴴᴰ⁺,https://cors.deno.dev/http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/3683
 TEBER STAR1 ,https://is.gd/d1T8gY.m3u8
-TEBER STAR2,https://is.gd/FtjRhm/1ABDALtv.m3u8
+TEBER STAR2,https://5e06e5e8c2e27.streamlock.net:1936/videonow/bulut/chunklist_w110952983.m3u8
+TEBER ON,https://5e06e5e8c2e27.streamlock.net:1936/videonow/teber2/chunklist_w909642297.m3u8
 TEBER DEM TV,https://is.gd/daUbT5.m3u8
 VRT HD,https://vrttv.ozelip.com:3644/multi_web/play_720.m3u8
 RIZE TÜRK,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
