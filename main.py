@@ -63,7 +63,7 @@ if __name__ == '__main__':
     content_new = ""
     content_end = ""
     for y in yuan:
-        content_new += "💞{0},#genre#\n{1}".format(y, getTvList(y, yuan[y]))
+        content_new += "\n💞{0},#genre#\n{1}".format(y, getTvList(y, yuan[y]))
     with open('xxtv.txt', 'r') as f:
         content_end += "\n💞{0},#genre#\n{1}".format("成人频道1", f.read())
     with open("tv_list.txt", "w", encoding="utf-8") as f:
