@@ -28469,7 +28469,7 @@ TR- 24 KITCHEN HD,https://cors.deno.dev/http://notivi-stream.com:64640/live/akin
 FİLODİ,https://umt02.videobulut.com/35/3811/M66VuK1TyKCw/M66VuK1TyKCw.m3u8
 Slow Karadeniz TV,https://yayin.slowkaradeniztv.com:3390/multi_web/play.m3u8
 Slow Karadeniz FM ,https://dinle.slowkaradenizfm.com:9578/
-Karadeniz Türk,💞Adult,#genre#
+Karadeniz Türk,💞成人集合1,#genre#
 一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
 一日女友的漂亮姐姐 中,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/j3/i6/yf/uj/4c59de88250d4dce94d5e5260a48468a.m3u8?
 一日女友的漂亮姐姐 下,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/zh/k6/r5/4l/88/60aac9f4edee40078853a86817ead1ff.m3u8?
