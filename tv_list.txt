@@ -28077,7 +28077,6 @@ TEBER STAR1 ,http://iptvh.it/T.star1
 TEBER STAR2,http://iptvh.it/t.star2
 TEBER ON TV,http://iptvh.it/t.on
 TEBER DEM TV,http://iptvh.it/t.dem
-TEBER HBB,http://iptvh.it/T.HBB
 VRT HD,http://iptvh.it/vrt.hd
 DEM TV int,http://77.68.121.3/hls/stream.m3u8
 RIZE TÜRK,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
