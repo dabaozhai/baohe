@@ -17692,8 +17692,8 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 阿拉伯语,http://tlivectfree-cdn.ysp.cctv.cn/E301A8A6554A0A11990E1B5D01AD24B2418F0C6094B4C964E1CB8C4E8530C90284C01D98E5E7C95AA78CA329E871E22E966CBFAA8279CE3C73811A69EAC35FC619D4D2DCEE8DE9519AB9B2A20301BFBEB9AEC8C404B7ADE87EB72F90D14688AC06BEB56A43AEA821CABF9A04BFC217B7AD0C539D520F4B49CDF97E8914CA93C09369383646A16A26BA1A3955C26A5AC7/2010155203.m3u8?from=player&svrtime=1648265824&pid=600001800&cdn=5505
 兵器科技,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012513403.m3u8
 ★★★★★上海 🇨🇳️★★★★★,https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
-上海新闻综合,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
-东方卫视,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
+上海新闻综合,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/xwzhhd8m/8000000/mnf.m3u8
+东方卫视,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/dfwshd8m/8000000/mnf.m3u8
 上海都市频道,http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 东方影视[百视通],http://tt-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
 上海纪实,http://tt-live.bestvcdn.com.cn/live/program/live/dfwshd8m/8000000/mnf.m3u8
@@ -17707,16 +17707,16 @@ CGTN France,http://livefr.cgtn.com/1000f/prog_index.m3u8
 新视觉,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 上视外语频道,http://112.25.48.69/live/program/live/wypdhd/4000000/mnf.m3u8
 东方影视,http://58.34.204.67:9901/tsfile/live/1016_1.m3u8
-五星体育[百视通],http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
+五星体育[百视通],http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 上海第一财经,http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
 上海纪实,http://183.207.255.188/live/program/live/jspdhd/4000000/mnf.m3u8
 乐游,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8
-乐游,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
+乐游,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qjshd8m/8000000/mnf.m3u8
 哈哈炫动,http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 都市剧场,http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-劲爆体育,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
+劲爆体育,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd8m/8000000/mnf.m3u8
 MAX极速汽车,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227186/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-七彩戏剧,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
+七彩戏剧,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/qcxjhd8m/8000000/mnf.m3u8
 七彩戏剧,https://live.v1.mk/api/bestv.php?id=qcxjhd8m/8000000
 ★★★★★地方臺 🇨🇳️★★★★★,https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 武汉新闻综合频道,http://live.appwuhan.com/1tzb/sd/live.m3u8
@@ -17726,11 +17726,11 @@ MAX极速汽车,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221
 广州竞赛,http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzjs
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
 四川文旅,http://112.19.214.90:8883/tsfile/live/1003_1.m3u8
-健康养生[百视通],http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
+健康养生[百视通],http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jkys8m/8000000/mnf.m3u8
 BTV纪实科教-8KSDR,http://111.62.156.15/downlive.brtvcloud.com/8krongmei1502/1502rongmeike8k.m3u8
 广东国际,http://hongyanqiang.top/chudian.php?id=gdgj
 求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
-金鹰纪实,http://119.167.231.88/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
+金鹰纪实,http://60.167.125.46/liveplay-kk.rtxapp.com/live/program/live/jyjs8m/8000000/mnf.m3u8
 中国气象频道,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 CNC 英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -18012,7 +18012,7 @@ ELTV生活英语,https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn2
 ★★★★★Overseas 🇺🇸️🇫🇷️丨ladder★★★★★,https://upload.wikimedia.org/wikipedia/commons/0/08/National_Flag_Anthem_of_the_Republic_of_China%E4%B8%AD%E8%8F%AF%E6%B0%91%E5%9C%8B%E5%9C%8B%E6%97%97%E6%AD%8C_%28%E6%BC%94%E5%A5%8F%E7%89%88%29.oga
 VOA China,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/VOA-TVMC08_1080/chunklist.m3u8
 V0A卫视,https://voa-ingest.akamaized.net/dash/live/2033879/tvmc08/manifest.mpd
-VOA廣播,https://voa-ingest.akamaized.net/dash/live/2035109-b/151_124L/manifest.mpd
+VOA廣播,https://voa-ingest.akamaized.net/dash/live/2035109/151_124L/manifest.mpd
 VOA廣播,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
 RFA,https://rfa-ingest.akamaized.net/hls/live/2040699/RFA_AUDIO_LIVE1/master.m3u8
 法国国际廣播电台,https://rfienchinois64k.ice.infomaniak.ch/rfienchinois-64.mp3
@@ -18111,7 +18111,7 @@ Wild EARTH,https://wildearth-roku.amagi.tv/masterR720P.m3u8
 Nat Geo Wildᴴᴰ,http://185.59.223.102:8080/natgeowild/index.m3u8
 Arise News,https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 VOA (English),https://voa-ingest.akamaized.net/hls/live/2033874/tvmc06/VOA-TVMC06_1080/chunklist.m3u8
-InWonder TV | Austrália,https://inwild-samsungau.amagi.tv/playlist.m3u8
+InWonder TV | Austrália,https://inwonder-samsung-uk.amagi.tv/playlist720.m3u8
 TN - Truyền hình Thái Nguyên HD,https://streaming.thainguyentv.vn/hls/livestream.m3u8
 Hải Phòng,https://live.thhp.vn/thp/index.m3u8
 Hải Phòng +,https://live.thhp.vn/hls/thpplus/index.m3u8?1
