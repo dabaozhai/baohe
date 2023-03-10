@@ -28130,7 +28130,7 @@ BBC One Channel Islands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc
 BBC One West Midlands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
 
 💞AILE-TV,#genre#
-TRT1 ᵁᴴᴰ⁺,https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+TRT1 ᵁᴴᴰ⁺,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
  TRT 2 FHD,http://167.114.115.233:8080/trt2fhd/index.m3u8
  TRT3 Türk,https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
 TR4K: TRT 4K UHD,http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/17550.ts
@@ -28139,7 +28139,7 @@ KANAL 7 ᵁᴴᴰ⁺,https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|U
 KANAL 7 AVRUPA FHD,https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 TEBER STAR1 ,http://iptvh.it/T.star1
 TEBER STAR2,http://iptvh.it/t.star2
-TEBER DEM TV,http://iptvh.it/t.dem
+TEBER DEM TV,http://iptvh.it/Teber_DEM
 TEBER ON TV,http://iptvh.it/t.on
  TELEON TV HD,https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
 VRT HD,http://iptvh.it/vrt.hd
@@ -28351,6 +28351,201 @@ RUMELİ TV,http://149.62.177.140:8000/play/a010/index.m3u8
  SUPER TURK HD,http://157.230.106.252:3923/hybrid/play.m3u8
  SUPER TURK HD YDK,http://157.230.106.252:3923/stream/play.m3u8
 SİNEMAX TV,https://film.ozelip.com:3344/stream/play.m3u8
+TR  | TRT SPOR YILDIZ 4K,http://zappmax.dynu.com:80/zapp4/toyou/41288
+TR |  GS TV HD,http://zappmax.dynu.com:80/zapp4/toyou/41287
+TR: GS TV HD,http://zappmax.dynu.com:80/zapp4/toyou/276
+TR: BJK TV HD,http://zappmax.dynu.com:80/zapp4/toyou/275
+TR | A SPOR UHD,http://zappmax.dynu.com:80/zapp4/toyou/41284
+TR | SMART SPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/41286
+TR | SMART SPOR UHD,http://zappmax.dynu.com:80/zapp4/toyou/41285
+TR | VIP S SPOR 2 4K,http://zappmax.dynu.com:80/zapp4/toyou/41283
+TR | VIP S-SPORT,http://zappmax.dynu.com:80/zapp4/toyou/41282
+TR |  EXXSPORTS Vip 1 HD | Mac Vakti,http://zappmax.dynu.com:80/zapp4/toyou/45546
+TR |  EXXSPORTS Vip 1 YEDEK,http://zappmax.dynu.com:80/zapp4/toyou/45547
+TR | EXXSPOR 1 UHD,http://zappmax.dynu.com:80/zapp4/toyou/45548
+TR | EXXSPORT 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/45549
+TR |  EXXSPORTS Vip 2 HD | Mac Vakti,http://zappmax.dynu.com:80/zapp4/toyou/45550
+TR | EXXSPOR 2 UHD,http://zappmax.dynu.com:80/zapp4/toyou/45551
+TR | EXXSPORT 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/45552
+TR |  EXXSPORTS Vip 3 HD | Mac Vakti,http://zappmax.dynu.com:80/zapp4/toyou/45553
+TR | EXXSPOR 3 UHD,http://zappmax.dynu.com:80/zapp4/toyou/45554
+TR | EXXSPORT 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/45555
+TR | ExxSpor 1,http://zappmax.dynu.com:80/zapp4/toyou/45556
+TR | ExxSpor 2,http://zappmax.dynu.com:80/zapp4/toyou/45557
+TR | ExxSpor 3,http://zappmax.dynu.com:80/zapp4/toyou/45558
+TR | EXXSPORT 4 HD,http://zappmax.dynu.com:80/zapp4/toyou/45559
+TR | ExxSpor 4,http://zappmax.dynu.com:80/zapp4/toyou/45560
+TR | EXXSPOR 4 FHD [ONLY LIVE],http://zappmax.dynu.com:80/zapp4/toyou/45561
+TR: EXXEN SPORT 4 HD,http://zappmax.dynu.com:80/zapp4/toyou/45562
+TR | EXXSPORT 5 HD,http://zappmax.dynu.com:80/zapp4/toyou/45563
+TR | ExxSpor 5,http://zappmax.dynu.com:80/zapp4/toyou/45564
+TR | EXXSPOR 5 FHD [ONLY LIVE],http://zappmax.dynu.com:80/zapp4/toyou/45565
+TR | EXXEN SPORT 5 HD,http://zappmax.dynu.com:80/zapp4/toyou/45566
+TR | EXXEN SPORT 6 HD,http://zappmax.dynu.com:80/zapp4/toyou/45567
+TR | ExxSpor 6,http://zappmax.dynu.com:80/zapp4/toyou/45568
+TR | EXXSPOR 6 FHD [ONLY LIVE],http://zappmax.dynu.com:80/zapp4/toyou/45569
+TR | EXXEN SPORT 7 HD,http://zappmax.dynu.com:80/zapp4/toyou/45570
+TR | EXXEN SPORT 8 HD,http://zappmax.dynu.com:80/zapp4/toyou/45571
+TR | EXXSPORTS 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/45572
+TR | EXXSPORTS 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/45573
+TR | EXXSPORTS 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/45574
+TR | BEIN SPORTS HD 1 K4,http://zappmax.dynu.com:80/zapp4/toyou/46066
+TR | beIN SPORTS 4 HD 1920/1080P LOCAL,http://zappmax.dynu.com:80/zapp4/toyou/46071
+TR | BEIN SPORTS HD 1 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46072
+TR | BEIN SPORTS HD 2 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46073
+TR | BEIN SPORTS HD 3 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46074
+TR | BEIN SPORTS HD 4 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46075
+TR | BEIN SPORTS 1 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46076
+TR | BEIN SPORTS 2 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46077
+TR | BEIN SPORTS 3 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46078
+TR | BEIN SPORTS 4 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46079
+TR | BEIN SPORTS 1 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46080
+TR | BEIN SPORTS 2 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46081
+TR | BEIN SPORTS 3 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46082
+TR | BEIN SPORTS 4 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46083
+TR:SADECE SUPER LIG 1 MACLARI,http://zappmax.dynu.com:80/zapp4/toyou/46084
+TR | bein sport 2 sadece turk ligi,http://zappmax.dynu.com:80/zapp4/toyou/46085
+TR | Lig TV 1 K4,http://zappmax.dynu.com:80/zapp4/toyou/46086
+TR | Lig TV 2 K4,http://zappmax.dynu.com:80/zapp4/toyou/46087
+TR | LIG TV 3 K4,http://zappmax.dynu.com:80/zapp4/toyou/46088
+TR | BEIN SPORTS MAX 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/46089
+TR | BEIN SPORTS MAX 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/46090
+TR | BEIN SPORTS HABER HEVC,http://zappmax.dynu.com:80/zapp4/toyou/46091
+TR | BEIN SPORTS HABER HD,http://zappmax.dynu.com:80/zapp4/toyou/46092
+TR | XC DRAGON SPORTS FEED (MAC ZAMANI),http://zappmax.dynu.com:80/zapp4/toyou/46093
+TR | BEIN SPORTS 1 HEVC,http://zappmax.dynu.com:80/zapp4/toyou/46094
+TR | BEIN SPORTS 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/46095
+TR | BEIN SPORTS 1 MOBILE,http://zappmax.dynu.com:80/zapp4/toyou/46096
+TR | BEIN SPORTS 1 TTNET,http://zappmax.dynu.com:80/zapp4/toyou/46097
+TR | BEIN SPORTS 2 HEVC,http://zappmax.dynu.com:80/zapp4/toyou/46098
+TR | BEIN SPORTS 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/46099
+TR | BEIN SPORTS 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/46100
+TR | BEIN SPORTS 4 HD,http://zappmax.dynu.com:80/zapp4/toyou/46101
+TR | VIP SMART SPOR,http://zappmax.dynu.com:80/zapp4/toyou/2074
+TR | VIP TIVIBU SPOR 1,http://zappmax.dynu.com:80/zapp4/toyou/2073
+TR | VIP TIVIBU SPOR 2,http://zappmax.dynu.com:80/zapp4/toyou/2072
+TR | VIP TIVIBU SPOR 3,http://zappmax.dynu.com:80/zapp4/toyou/2071
+TR | Smart Spor  4K,http://zappmax.dynu.com:80/zapp4/toyou/291
+TR | SSPORT 4K,http://zappmax.dynu.com:80/zapp4/toyou/290
+TR | TIVIBUSPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/289
+TR | TIVIBUSPOR 2 4K,http://zappmax.dynu.com:80/zapp4/toyou/288
+TR | TIVIBUSPOR 3 4K,http://zappmax.dynu.com:80/zapp4/toyou/287
+TR | TIVIBU SPOR 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/286
+TR | TIVIBU SPOR 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/285
+TR | TIVIBU SPOR 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/284
+TR | TIVIBU VIP 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/283
+TR | TIVIBU VIP 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/282
+TR | SMART SPOR 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/281
+TR | SMART SPOR 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/280
+TR | EURO SPORT 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/279
+TR | EURO SPORT 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/278
+TR | TRT SPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/277
+TR |  FB TV HD,http://zappmax.dynu.com:80/zapp4/toyou/274
+TR | GS TV,http://zappmax.dynu.com:80/zapp4/toyou/273
+TR | A SPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/272
+TR | SPORTS TV,http://zappmax.dynu.com:80/zapp4/toyou/271
+TR | TJK TV,http://zappmax.dynu.com:80/zapp4/toyou/270
+TR | TRT SPOR HD,http://zappmax.dynu.com:80/zapp4/toyou/269
+TR | ANiMAL PLANET HD,http://zappmax.dynu.com:80/zapp4/toyou/29037
+TR | BBC Earth HD,http://zappmax.dynu.com:80/zapp4/toyou/29036
+TR | BEIN GURME HD,http://zappmax.dynu.com:80/zapp4/toyou/29035
+TR | DiSCOVERY CHANNEL HD,http://zappmax.dynu.com:80/zapp4/toyou/29034
+TR | DiSCOWERY SCiENCE HD,http://zappmax.dynu.com:80/zapp4/toyou/29032
+TR | DMAX HD,http://zappmax.dynu.com:80/zapp4/toyou/29031
+TR | HISTORY HD,http://zappmax.dynu.com:80/zapp4/toyou/29030
+TR | NAT GEO WILD HD,http://zappmax.dynu.com:80/zapp4/toyou/29029
+TR | NATIONAL GEOGRAPHIC HD,http://zappmax.dynu.com:80/zapp4/toyou/29027
+TR | TRT BELGESEL HD,http://zappmax.dynu.com:80/zapp4/toyou/29026
+TR | YABAN TV HD,http://zappmax.dynu.com:80/zapp4/toyou/29025
+Sinema Aksiyon 1 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65773.m3u8
+Sinema Aksiyon 2 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65774.m3u8
+Sinema Aksiyon 3 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65775.m3u8
+Sinema Aksiyon 4 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65776.m3u8
+Sinema Aksiyon 5 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65777.m3u8
+Sinema Aksiyon 6 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65778.m3u8
+Sinema Aksiyon 7 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65779.m3u8
+Sinema Aksiyon 8 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65842.m3u8
+Sinema Aksiyon 9 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65843.m3u8
+Sinema Aksiyon 10 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65844.m3u8
+Loca 1 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/254.m3u8
+Loca 2 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/255.m3u8
+Loca 3 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/256.m3u8
+Vip Channel Komedi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15768.m3u8
+Vip Channel Romantik Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15790.m3u8
+Vip Channel Aile Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15792.m3u8
+Vip Channel Aksiyon Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15794.m3u8
+Vip Channel Suc Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15796.m3u8
+Vip Channel Korku Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15851.m3u8
+Vip Channel Bilim Kurgu Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15886.m3u8
+Vip Channel Dram Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15888.m3u8
+Vip Channel Gizem Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15890.m3u8
+Vip Channel Yerli Korku Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15892.m3u8
+Vip Channel Yerli Dram Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15999.m3u8
+Vip Channel Yerli Romantik Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16000.m3u8
+Vip Channel Yerli Aile Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16001.m3u8
+Vip Channel Yerli Macera Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16014.m3u8
+4K Sinema 1,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65247.m3u8
+4K Sinema 2,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65248.m3u8
+4K Sinema 3,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65249.m3u8
+4K Sinema 4,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65250.m3u8
+4K Sinema 5,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65402.m3u8
+4K Sinema 6,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65403.m3u8
+4K Sinema 7,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65404.m3u8
+4K Sinema 8,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65405.m3u8
+4K Sinema 9,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65407.m3u8
+4K Sinema 10,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65408.m3u8
+Yesilcam 1 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/223.m3u8
+Yesilcam 2 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16016.m3u8
+Yesilcam 3 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16019.m3u8
+Yesilcam 4 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16020.m3u8
+Yesilcam 5 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64681.m3u8
+Yesilcam 6 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65452.m3u8
+Yesilcam 7 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65471.m3u8
+Yesilcam 8 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65472.m3u8
+Yesilcam 9 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65473.m3u8
+Yesilcam 10 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65474.m3u8
+Yesilcam Aksiyon Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65759.m3u8
+Yesilcam Komedi,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54202.m3u8
+Yesilcam Romantik Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54233.m3u8
+Kemal Sunal Tv Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/264.m3u8
+Kemal Sunal Tv 2 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54388.m3u8
+Kemal Sunal Tv 3 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66880.m3u8
+Kemal Sunal Tv 4 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66881.m3u8
+Kemal Sunal Tv 5 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66882.m3u8
+Hababam Sinifi Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54204.m3u8
+Tarik Akan Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54230.m3u8
+Sener Sen Tv Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54231.m3u8
+Fatma Girik Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54232.m3u8
+Turkan Soray Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54258.m3u8
+Restarasyonlu Turk Filmleri Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54259.m3u8
+Zeki Metin Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64941.m3u8
+Ferdi Tayfur Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65251.m3u8
+Tarkan Filmleri Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65252.m3u8
+TV+ Turkcell,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64742.m3u8
+Buzdevri Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64947.m3u8
+Asteriks Ve Oburiks Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64948.m3u8
+Kovboy Tv Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54389.m3u8
+Bruce Lee Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64949.m3u8
+Hannibal Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64971.m3u8
+Hayalet Avcilari Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65043.m3u8
+Police Academy Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65054.m3u8
+Karayip Korsanlari Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65246.m3u8
+X Men Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65061.m3u8
+Transformers Seri Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/21979.m3u8
+SiNEMA ACTION HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4967
+SiNEMA KOMEDI HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4968
+SiNEMA GOLD HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4969
+KEMAL SUNAL 1,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4970
+KEMAL SUNAL 2,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4971
+KEMAL SUNAL 3,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4972
+PREMIUM HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4973
+SINEMA TURK HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4974
+YESILCAM 1,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4975
+YESILCAM 2,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4976
+SiNEMA TV YERLi,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4161
+TURKUVAZ SiNEMA,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/5243
+ViZYON SiNEMA KOMEDi,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/8244
+SLTV YESiLCAM,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/8254
  ID HD TR,https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
  ID FHD TR,https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
  BLUPLAY 1 HD,https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
