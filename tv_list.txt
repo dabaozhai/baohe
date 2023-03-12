@@ -28374,7 +28374,8 @@ BBC One West Midlands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:p
 TRT1 ᵁᴴᴰ⁺,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
  TRT 2 FHD,http://167.114.115.233:8080/trt2fhd/index.m3u8
  TRT3 Türk,https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-TR4K: TRT 4K UHD,http://udashboard.vip:8080/rFmGpHPYdL/mt33tp2uYu/17550.ts
+TR: TRT 4K UHD 2160p,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/245
+TR: TRT 4K,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/244
  TRT5 AVAZ,https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 KANAL 7 ᵁᴴᴰ⁺,https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
 KANAL 7 AVRUPA FHD,https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
@@ -28544,6 +28545,128 @@ TON TV,https://h125.artiyerelmedya.net/tontv/bant1/chunks.m3u8
 OLAY TÜRK,https://h59.artiyerelmedya.net/olayturk/bant1/chunks.m3u8
 kanal Z,https://h92.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
 RUMELİ TV,http://149.62.177.140:8000/play/a010/index.m3u8
+TR: SMART COCUK HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/425
+TR: CARTOON NETWORK HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/426
+TR: DISNEY CHANNEL HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/427
+TR: TRT ÇOCUK HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/429
+TR: TRT COCUK HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/186668
+TR: NICKELODEON HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/430
+TR: NICK JR HD HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/431
+TR: DISNEY JR HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/432
+TR: CBEEBiES HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/434
+TR: BABY TV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/436
+TR: BOOMERANG HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/437
+TR: MINICA GO,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/438
+TR: MINIKA COCUK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/439
+TR: KIDSAX KUKULI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219394
+TR: KIDSAX NILOYA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219395
+TR: KIDSAX PEPE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219396
+TR: KIDSAX RAFADAN TAYFA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219398
+TR: KIDSAX SIRINLER ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219397
+TR: KIDSAX MASHA İLE KOCA AYI ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219399
+TR: FILMAX COCUK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/113524
+TR: FILMAX COCUK 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/121373
+TR:  FILMAX COCUK 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/450
+TR: FILMAX COCUK 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/121374
+TR: DIZIAX Pokemon HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/451
+TR: DIZIAX Masa İle Koca Ayı HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/65778
+TR: DIZIAX Ari Maya HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/67843
+TR: DIZIAX Cocuk Alvinnnn HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124296
+TR: DIZIAX Cocuk Heidi HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124297
+TR: DIZIAX Cocuk Patron Bebek HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124298
+TR: DIZIAX Cocuk Müffetiş Gadget HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124299
+TR: DIZIAX Cocuk Jurassic World HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124300
+TR: DIZIAX Cocuk Transformers HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124301
+TR: DIZIAX Cocuk Sonic Boom HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124302
+TR: DIZIAX Cocuk Wakfu HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124303
+TR: DIZIAX Cocuk Hello Ninja HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124306
+TR: DIZIAX Cocuk Troll Hunter HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124304
+TR: DIZIAX Cocuk Go Go Cory Carson HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124305
+TR: DIZIAX Cocuk Kral Sakir HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124307
+TR: DIZIAX Cocuk LEGO Ninjago Masters of Spinjitzu HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124308
+TR: DIZIAX Çocuk KUCUK BHEEM MACERALARİ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142091
+TR: DIZIAX Aslan HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/433
+TR: DIZIAX Cocuk 1 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/435
+TR: DIZIAX Elif ve Arkadaslari HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/443
+TR: DIZIAX Rafadan Tayfa HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/445
+TR: TOM & JERRY,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/440
+TR: PIJAMA MASKELILER TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/441
+TR: SiRiNLER TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/442
+TR: DISNEY JR HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/444
+TR: Cizgi Film HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/446
+TR: KUKULI TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/447
+TR: Niloya HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/448
+TR: PEPEE TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/195213
+TR: MAX Animasyon HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219318
+TR: MAX Animasyon 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219319
+TR: Filmax Animation HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/452
+TR: Animation 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/453
+TR: Animation 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/454
+TR: BOOBA TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/191901
+TR: FILMAX ANIMASYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219433
+TR: 64 KARE ULKESI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260507
+TR: ADIBESA MASALLARI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260508
+TR: ANKA TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260509
+TR: ASLAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260510
+TR: BARBAROS TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260511
+TR: BEN 10 TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260512
+TR: BULMACA KULESI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260513
+TR: CAILLOU TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260514
+TR: CANIM KARDESIM TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260515
+TR: CHICKY TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260516
+TR: CILGIN ORMAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260517
+TR: ILAHI COCUK TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260518
+TR: DORU TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260519
+TR: EGE ILE GAGA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260520
+TR: ELIF VE ARKADASLARI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260521
+TR: ELIFIN RUYASI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260522
+TR: GIZEMLER DIYARI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260523
+TR: HAPSUU TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260524
+TR: ITFAYECI SAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260525
+TR: KARE TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260526
+TR: KELOGLAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260527
+TR: KOSTEBEKGILLER TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260528
+TR: KRAL SAKIR TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260529
+TR: KUKILI TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260530
+TR: LEYLEK KARDES,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260531
+TR: LIMON ZEYTIN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260532
+TR: MASA KOCAAYI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260533
+TR: MIMOCAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260534
+TR: NASREDDIN HOCA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260535
+TR: NILOYA TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260536
+TR: OSCAR COLLERDE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260537
+TR: PAK PIRPIR TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260538
+TR: PAW PETROL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260539
+TR: PEPPA PIG,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260540
+TR: PEPE TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260541
+TR: PIJAMA MASKE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260542
+TR: PIRIL TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260543
+TR: PISI TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260544
+TR: POKEMON TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260545
+TR: RAFADAN TAYFA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260546
+TR: RUYA TRENI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260547
+TR: SEF ROKKA TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260548
+TR: SEKER HOCA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260549
+TR: SERCE KUS TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260550
+TR: SEVIMLI DOSTLAR,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260551
+TR: SIRINLER TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260552
+TR: SPIDERMAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260553
+TR: TAVSAN MOMO,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260554
+TR: TAYO TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260555
+TR: VIKINGLER TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260556
+TR: ALVIN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260557
+TR: ANGRY BIRDS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260558
+TR: GABBY,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260559
+TR: MUFFETIS GADGET,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260560
+TR: HEIDI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260561
+TR: JURASSIC WORLD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260562
+TR: MAYMUNLAR KRALI KONG,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260563
+TR: KONUSAN TOM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260564
+TR: SONİC BOOM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260565
+TR: TRANSFORMERS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260566
+TR: TROL AVCILARI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260567
+TR: WAKFU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260568
+TR: YILDIZ KIZ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260569
  BOOMERANG HD [BLU],https://mn-nl.mncdn.com/blutv_boomerang/live_720p2000000kbps/index.m3u8
  Cartoon Network HD,https://mn-nl.mncdn.com/blutv_cartoonnetwork/live_720p2000000kbps/index.m3u8
  Cartoon Network HD YEDEK,http://134.122.73.67:25461/live/elit_supersat2/ozeliptvstream/26.m3u8
@@ -28589,204 +28712,546 @@ RUMELİ TV,http://149.62.177.140:8000/play/a010/index.m3u8
  TV4 HD TR,https://mn-nl.mncdn.com/blutv_tv4/live.m3u8
  TV4 HD TR,https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
  SHOWMAX HD,http://134.122.73.67:25461/live/elit_supersat1/ulusalstream/6.m3u8
- SUPER TURK HD,http://157.230.106.252:3923/hybrid/play.m3u8
- SUPER TURK HD YDK,http://157.230.106.252:3923/stream/play.m3u8
-SİNEMAX TV,https://film.ozelip.com:3344/stream/play.m3u8
-TR  | TRT SPOR YILDIZ 4K,http://zappmax.dynu.com:80/zapp4/toyou/41288
-TR |  GS TV HD,http://zappmax.dynu.com:80/zapp4/toyou/41287
-TR: GS TV HD,http://zappmax.dynu.com:80/zapp4/toyou/276
-TR: BJK TV HD,http://zappmax.dynu.com:80/zapp4/toyou/275
-TR | A SPOR UHD,http://zappmax.dynu.com:80/zapp4/toyou/41284
-TR | SMART SPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/41286
-TR | SMART SPOR UHD,http://zappmax.dynu.com:80/zapp4/toyou/41285
-TR | VIP S SPOR 2 4K,http://zappmax.dynu.com:80/zapp4/toyou/41283
-TR | VIP S-SPORT,http://zappmax.dynu.com:80/zapp4/toyou/41282
-TR |  EXXSPORTS Vip 1 HD | Mac Vakti,http://zappmax.dynu.com:80/zapp4/toyou/45546
-TR |  EXXSPORTS Vip 1 YEDEK,http://zappmax.dynu.com:80/zapp4/toyou/45547
-TR | EXXSPOR 1 UHD,http://zappmax.dynu.com:80/zapp4/toyou/45548
-TR | EXXSPORT 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/45549
-TR |  EXXSPORTS Vip 2 HD | Mac Vakti,http://zappmax.dynu.com:80/zapp4/toyou/45550
-TR | EXXSPOR 2 UHD,http://zappmax.dynu.com:80/zapp4/toyou/45551
-TR | EXXSPORT 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/45552
-TR |  EXXSPORTS Vip 3 HD | Mac Vakti,http://zappmax.dynu.com:80/zapp4/toyou/45553
-TR | EXXSPOR 3 UHD,http://zappmax.dynu.com:80/zapp4/toyou/45554
-TR | EXXSPORT 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/45555
-TR | ExxSpor 1,http://zappmax.dynu.com:80/zapp4/toyou/45556
-TR | ExxSpor 2,http://zappmax.dynu.com:80/zapp4/toyou/45557
-TR | ExxSpor 3,http://zappmax.dynu.com:80/zapp4/toyou/45558
-TR | EXXSPORT 4 HD,http://zappmax.dynu.com:80/zapp4/toyou/45559
-TR | ExxSpor 4,http://zappmax.dynu.com:80/zapp4/toyou/45560
-TR | EXXSPOR 4 FHD [ONLY LIVE],http://zappmax.dynu.com:80/zapp4/toyou/45561
-TR: EXXEN SPORT 4 HD,http://zappmax.dynu.com:80/zapp4/toyou/45562
-TR | EXXSPORT 5 HD,http://zappmax.dynu.com:80/zapp4/toyou/45563
-TR | ExxSpor 5,http://zappmax.dynu.com:80/zapp4/toyou/45564
-TR | EXXSPOR 5 FHD [ONLY LIVE],http://zappmax.dynu.com:80/zapp4/toyou/45565
-TR | EXXEN SPORT 5 HD,http://zappmax.dynu.com:80/zapp4/toyou/45566
-TR | EXXEN SPORT 6 HD,http://zappmax.dynu.com:80/zapp4/toyou/45567
-TR | ExxSpor 6,http://zappmax.dynu.com:80/zapp4/toyou/45568
-TR | EXXSPOR 6 FHD [ONLY LIVE],http://zappmax.dynu.com:80/zapp4/toyou/45569
-TR | EXXEN SPORT 7 HD,http://zappmax.dynu.com:80/zapp4/toyou/45570
-TR | EXXEN SPORT 8 HD,http://zappmax.dynu.com:80/zapp4/toyou/45571
-TR | EXXSPORTS 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/45572
-TR | EXXSPORTS 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/45573
-TR | EXXSPORTS 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/45574
-TR | BEIN SPORTS HD 1 K4,http://zappmax.dynu.com:80/zapp4/toyou/46066
-TR | beIN SPORTS 4 HD 1920/1080P LOCAL,http://zappmax.dynu.com:80/zapp4/toyou/46071
-TR | BEIN SPORTS HD 1 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46072
-TR | BEIN SPORTS HD 2 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46073
-TR | BEIN SPORTS HD 3 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46074
-TR | BEIN SPORTS HD 4 1280/720 P,http://zappmax.dynu.com:80/zapp4/toyou/46075
-TR | BEIN SPORTS 1 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46076
-TR | BEIN SPORTS 2 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46077
-TR | BEIN SPORTS 3 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46078
-TR | BEIN SPORTS 4 FHD 1920/1080i,http://zappmax.dynu.com:80/zapp4/toyou/46079
-TR | BEIN SPORTS 1 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46080
-TR | BEIN SPORTS 2 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46081
-TR | BEIN SPORTS 3 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46082
-TR | BEIN SPORTS 4 HD LOCAL 1920/1080,http://zappmax.dynu.com:80/zapp4/toyou/46083
-TR:SADECE SUPER LIG 1 MACLARI,http://zappmax.dynu.com:80/zapp4/toyou/46084
-TR | bein sport 2 sadece turk ligi,http://zappmax.dynu.com:80/zapp4/toyou/46085
-TR | Lig TV 1 K4,http://zappmax.dynu.com:80/zapp4/toyou/46086
-TR | Lig TV 2 K4,http://zappmax.dynu.com:80/zapp4/toyou/46087
-TR | LIG TV 3 K4,http://zappmax.dynu.com:80/zapp4/toyou/46088
-TR | BEIN SPORTS MAX 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/46089
-TR | BEIN SPORTS MAX 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/46090
-TR | BEIN SPORTS HABER HEVC,http://zappmax.dynu.com:80/zapp4/toyou/46091
-TR | BEIN SPORTS HABER HD,http://zappmax.dynu.com:80/zapp4/toyou/46092
-TR | XC DRAGON SPORTS FEED (MAC ZAMANI),http://zappmax.dynu.com:80/zapp4/toyou/46093
-TR | BEIN SPORTS 1 HEVC,http://zappmax.dynu.com:80/zapp4/toyou/46094
-TR | BEIN SPORTS 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/46095
-TR | BEIN SPORTS 1 MOBILE,http://zappmax.dynu.com:80/zapp4/toyou/46096
-TR | BEIN SPORTS 1 TTNET,http://zappmax.dynu.com:80/zapp4/toyou/46097
-TR | BEIN SPORTS 2 HEVC,http://zappmax.dynu.com:80/zapp4/toyou/46098
-TR | BEIN SPORTS 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/46099
-TR | BEIN SPORTS 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/46100
-TR | BEIN SPORTS 4 HD,http://zappmax.dynu.com:80/zapp4/toyou/46101
-TR | VIP SMART SPOR,http://zappmax.dynu.com:80/zapp4/toyou/2074
-TR | VIP TIVIBU SPOR 1,http://zappmax.dynu.com:80/zapp4/toyou/2073
-TR | VIP TIVIBU SPOR 2,http://zappmax.dynu.com:80/zapp4/toyou/2072
-TR | VIP TIVIBU SPOR 3,http://zappmax.dynu.com:80/zapp4/toyou/2071
-TR | Smart Spor  4K,http://zappmax.dynu.com:80/zapp4/toyou/291
-TR | SSPORT 4K,http://zappmax.dynu.com:80/zapp4/toyou/290
-TR | TIVIBUSPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/289
-TR | TIVIBUSPOR 2 4K,http://zappmax.dynu.com:80/zapp4/toyou/288
-TR | TIVIBUSPOR 3 4K,http://zappmax.dynu.com:80/zapp4/toyou/287
-TR | TIVIBU SPOR 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/286
-TR | TIVIBU SPOR 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/285
-TR | TIVIBU SPOR 3 HD,http://zappmax.dynu.com:80/zapp4/toyou/284
-TR | TIVIBU VIP 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/283
-TR | TIVIBU VIP 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/282
-TR | SMART SPOR 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/281
-TR | SMART SPOR 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/280
-TR | EURO SPORT 1 HD,http://zappmax.dynu.com:80/zapp4/toyou/279
-TR | EURO SPORT 2 HD,http://zappmax.dynu.com:80/zapp4/toyou/278
-TR | TRT SPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/277
-TR |  FB TV HD,http://zappmax.dynu.com:80/zapp4/toyou/274
-TR | GS TV,http://zappmax.dynu.com:80/zapp4/toyou/273
-TR | A SPOR 4K,http://zappmax.dynu.com:80/zapp4/toyou/272
-TR | SPORTS TV,http://zappmax.dynu.com:80/zapp4/toyou/271
-TR | TJK TV,http://zappmax.dynu.com:80/zapp4/toyou/270
-TR | TRT SPOR HD,http://zappmax.dynu.com:80/zapp4/toyou/269
-TR | ANiMAL PLANET HD,http://zappmax.dynu.com:80/zapp4/toyou/29037
-TR | BBC Earth HD,http://zappmax.dynu.com:80/zapp4/toyou/29036
-TR | BEIN GURME HD,http://zappmax.dynu.com:80/zapp4/toyou/29035
-TR | DiSCOVERY CHANNEL HD,http://zappmax.dynu.com:80/zapp4/toyou/29034
-TR | DiSCOWERY SCiENCE HD,http://zappmax.dynu.com:80/zapp4/toyou/29032
-TR | DMAX HD,http://zappmax.dynu.com:80/zapp4/toyou/29031
-TR | HISTORY HD,http://zappmax.dynu.com:80/zapp4/toyou/29030
-TR | NAT GEO WILD HD,http://zappmax.dynu.com:80/zapp4/toyou/29029
-TR | NATIONAL GEOGRAPHIC HD,http://zappmax.dynu.com:80/zapp4/toyou/29027
-TR | TRT BELGESEL HD,http://zappmax.dynu.com:80/zapp4/toyou/29026
-TR | YABAN TV HD,http://zappmax.dynu.com:80/zapp4/toyou/29025
-Sinema Aksiyon 1 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65773.m3u8
-Sinema Aksiyon 2 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65774.m3u8
-Sinema Aksiyon 3 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65775.m3u8
-Sinema Aksiyon 4 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65776.m3u8
-Sinema Aksiyon 5 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65777.m3u8
-Sinema Aksiyon 6 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65778.m3u8
-Sinema Aksiyon 7 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65779.m3u8
-Sinema Aksiyon 8 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65842.m3u8
-Sinema Aksiyon 9 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65843.m3u8
-Sinema Aksiyon 10 Ultra Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65844.m3u8
-Loca 1 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/254.m3u8
-Loca 2 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/255.m3u8
-Loca 3 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/256.m3u8
-Vip Channel Komedi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15768.m3u8
-Vip Channel Romantik Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15790.m3u8
-Vip Channel Aile Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15792.m3u8
-Vip Channel Aksiyon Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15794.m3u8
-Vip Channel Suc Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15796.m3u8
-Vip Channel Korku Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15851.m3u8
-Vip Channel Bilim Kurgu Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15886.m3u8
-Vip Channel Dram Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15888.m3u8
-Vip Channel Gizem Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15890.m3u8
-Vip Channel Yerli Korku Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15892.m3u8
-Vip Channel Yerli Dram Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/15999.m3u8
-Vip Channel Yerli Romantik Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16000.m3u8
-Vip Channel Yerli Aile Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16001.m3u8
-Vip Channel Yerli Macera Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16014.m3u8
-4K Sinema 1,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65247.m3u8
-4K Sinema 2,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65248.m3u8
-4K Sinema 3,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65249.m3u8
-4K Sinema 4,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65250.m3u8
-4K Sinema 5,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65402.m3u8
-4K Sinema 6,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65403.m3u8
-4K Sinema 7,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65404.m3u8
-4K Sinema 8,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65405.m3u8
-4K Sinema 9,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65407.m3u8
-4K Sinema 10,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65408.m3u8
-Yesilcam 1 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/223.m3u8
-Yesilcam 2 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16016.m3u8
-Yesilcam 3 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16019.m3u8
-Yesilcam 4 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/16020.m3u8
-Yesilcam 5 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64681.m3u8
-Yesilcam 6 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65452.m3u8
-Yesilcam 7 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65471.m3u8
-Yesilcam 8 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65472.m3u8
-Yesilcam 9 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65473.m3u8
-Yesilcam 10 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65474.m3u8
-Yesilcam Aksiyon Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65759.m3u8
-Yesilcam Komedi,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54202.m3u8
-Yesilcam Romantik Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54233.m3u8
-Kemal Sunal Tv Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/264.m3u8
-Kemal Sunal Tv 2 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54388.m3u8
-Kemal Sunal Tv 3 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66880.m3u8
-Kemal Sunal Tv 4 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66881.m3u8
-Kemal Sunal Tv 5 Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/66882.m3u8
-Hababam Sinifi Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54204.m3u8
-Tarik Akan Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54230.m3u8
-Sener Sen Tv Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54231.m3u8
-Fatma Girik Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54232.m3u8
-Turkan Soray Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54258.m3u8
-Restarasyonlu Turk Filmleri Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54259.m3u8
-Zeki Metin Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64941.m3u8
-Ferdi Tayfur Tv,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65251.m3u8
-Tarkan Filmleri Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65252.m3u8
-TV+ Turkcell,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64742.m3u8
-Buzdevri Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64947.m3u8
-Asteriks Ve Oburiks Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64948.m3u8
-Kovboy Tv Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/54389.m3u8
-Bruce Lee Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64949.m3u8
-Hannibal Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/64971.m3u8
-Hayalet Avcilari Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65043.m3u8
-Police Academy Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65054.m3u8
-Karayip Korsanlari Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65246.m3u8
-X Men Serisi Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/65061.m3u8
-Transformers Seri Hd,http://vadi61.com:80/live/kalender07/5Uc3gL9naw/21979.m3u8
-SiNEMA ACTION HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4967
-SiNEMA KOMEDI HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4968
-SiNEMA GOLD HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4969
-KEMAL SUNAL 1,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4970
-KEMAL SUNAL 2,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4971
-KEMAL SUNAL 3,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4972
-PREMIUM HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4973
-SINEMA TURK HD,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4974
-YESILCAM 1,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4975
-YESILCAM 2,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4976
-SiNEMA TV YERLi,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/4161
-TURKUVAZ SiNEMA,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/5243
-ViZYON SiNEMA KOMEDi,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/8244
-SLTV YESiLCAM,http://misket.tv:2020/Mertcan_Eryilmaz/7c:61:66:2c:f4:0f/8254
+TR: bieN SP0RT 1 FHD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/5000
+TR:  bieN SP0RT 1 [YEDEK],http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/117044
+TR: bieN SP0RT 1 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/19048
+TR: bieN SP0RT 1 HD ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/288
+TR: bieN SP0RT 1 SD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/286
+TR: bieN SP0RT 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/289
+TR: bieN SP0RT 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/262
+TR: bieN SP0RT 3 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/290
+TR: bieN SP0RT 3 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/263
+TR: bieN SP0RT 4 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/291
+TR: bieN SP0RT 4 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/264
+TR: bieN SP0RT 5 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/117043
+TR: bieN SP0RTS MAX 1 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/292
+TR: bieN SP0RT MAX 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/265
+TR: bieN SP0RT MAX 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/293
+TR: bieN SP0RT MAX 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/266
+TR: bieN SP0RT HABER HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/285
+TR: bieN SP0RT HABER HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/267
+TR: bieN CNNECT 1 maczamani,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/117040
+TR: bieN CNNECT 2 maczamani,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/117041
+TR: bieN CNNECT 3 maczamani,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/117042
+#### TURK SPOR ####,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/119
+_ONEMLI BILGI_,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/222304
+TR: S-SPORT 1 HD++,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/305
+TR: S-SPORT 1 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/294
+TR: S-SPORT HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/271
+TR: S-SPORT 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/295
+TR: S-SPORT 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/116073
+TR: SPOR SMART HD++,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/297
+TR: SPOR SMART HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/272
+TR: SPORT SMART HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/301
+TR: SPORT SMART HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/302
+TR: SPOR SMART SD (1280),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124764
+TR: SPOR SMART 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/69715
+TR: TiViBUSPOR HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125109
+TR: TiViBUSPOR 1 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/298
+TR: TiViBUSPOR 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/299
+TR: TiViBUSPOR 3 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/300
+TR: TIVIBUSPOR 4(maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/182418
+TR: TIVIBUSPOR 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/268
+TR: TIVIBUSPOR 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/269
+TR: TIVIBUSPOR 3 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/270
+TR: EXXEN 1 HD+ (maczamaniacilir),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125020
+TR: EXXEN 1 FEED (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/179671
+TR: EXXEN 1 Plus+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/207893
+TR: EXXEN 2 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125073
+TR: EXXEN 3 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125857
+TR: EXXEN 4 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/141719
+TR: EXXEN 5 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/141720
+TR: EXXEN 6 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/141721
+TR: EXXEN 7 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/141923
+TR: EXXEN 8 HD+ (maczamani),http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/141924
+TR: S Sport+1 Mac Saati,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125105
+TR: S Sport+2 Mac Saati,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125106
+TR: S Sport+3 Mac Saati,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125107
+TR: S Sport+4 Mac Saati,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/125108
+TR: NBA TV HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/296
+TR: NBA TV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/274
+TR: EUROSPORT 1 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/275
+TR: EUROSPORT 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/276
+TR: TRT SPOR HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/283
+TR: TRT SPOR HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/281
+TR: TRT 3 SPOR,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/114885
+TR: A SPOR HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/284
+TR: A SPOR HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/280
+TR: TRT SPOR YILDIZ HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/114887
+TR: TRT SPOR YILDIZ HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/282
+TR: GS TV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/277
+TR: FB TV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/259
+TR: SPORTSTV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/278
+TR: TJK TV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/279
+TR: F1AX Formula 1,TR: EUROSPORT 1 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120773
+TR: EUROSPORT 2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120774
+TR: FOX CRIME HD RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120775
+TR: FX HD RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120776
+TR: LOVE NATURE RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120777
+TR: MOVIE CLASSIC RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120778
+TR: MOVIE TÜRK RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120779
+TR: NAT GEO HD RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120780
+TR: NAT GEO WILD HD RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120781
+TR: NATURE ESCAPE RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120782
+TR: NBA TV RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120783
+TR: OUTDOOR RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120784
+TR: S SPORT RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120785
+TR: S SPORT2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120786
+TR: SPORSMART RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120787
+TR: SPORSMART 2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120788
+TR: FILMBOX RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120751
+TR: SİNEMA 1001 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120754
+TR: SİNEMA 1002 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120755
+TR: SİNEMA 2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120756
+TR: SİNEMA AKSİYON RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120757
+TR: SİNEMA AKSİYON 2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120758
+TR: SİNEMA AİLE RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120759
+TR: SİNEMA AİLE 2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120760
+TR: SİNEMA KOMEDİ RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120761
+TR: SİNEMA KOMEDİ 2 RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120762
+TR: SİNEMA TV RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120763
+TR: VIASAT HISTORY RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120764
+TR: 24 KITCHEN HD RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120765
+TR: BOOMERANG HD RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120767
+TR: BABY TV RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120766
+TR: DISCOVERY CHANNEL RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120768
+TR: DISNEY JUNIOR RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120770
+TR: DISCOVERY SCIENCE RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120769
+TR: DİZİ PREMIUM RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120771
+TR: DİZİSMART MAX RAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/120772
+TR:  1 Aksiyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/195688
+TR:  2 Kemal Sunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/195689
+TR:  3 Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/195690
+TR:  4 VIZYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/195832
+TR: b**N MOVIES FAMILY HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106621
+TR: b**N MOVIES ACTION HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106622
+TR: b**N M0VIES ACTI0N 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/318
+TR: b**N M0VIES P*EMIER HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/312
+TR: b**N MOVIES P*EMIERE 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/317
+TR: b**N M0VIES STARS HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/319
+TR: b**N M0VIES TURK HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/316
+TR: b**N S*RIES C0MEDY HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/309
+TR: b**N S*RIES DR*MA HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/307
+TR: b**N S*RIES SCFI HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/308
+TR: b**N S*RIES VlCE HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/306
+TR: MOVİESMART CLASSİC HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/350
+TR: MOVIESMART COCUK HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/370
+TR: MOVİESMART TURK HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/349
+TR: DİZİ SMART PREMIUM HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/351
+TR: DIZI SMART PREMIUM HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/331
+TR: DIZI SMART MAX HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/332
+TR: DIZI SMART MAX HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/352
+TR: SINEMA TV 1001 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/368
+TR: SINEMA TV 1002 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/369
+TR: SINEMA TV HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/358
+TR: SINEMA TV 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/359
+TR: SINEMA TV ACTION HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/360
+TR: SINEMA TV ACTION 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/361
+TR: SINEMA TV KOMEDI HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/364
+TR: SINEMA TV AILE HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/362
+TR: SINEMA TV AILE 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/363
+TR: SINEMA TV YERLI  HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/366
+TR: SINEMA TV YERLI 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/367
+TR: SINEMA TV KOMEDI 2 HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/365
+TR: FX HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/354
+TR: FOX CRIME HD+,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/356
+#### TURK SİNEMA ####,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/123
+TR: FILMAX Netflix HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185254
+TR: FILMAX DISNEY,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/259605
+TR: FILMAX AMAZON PRIME,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/259606
+TR: FILMAX IMDB TOP,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/215167
+TR: FILMAX GOLD HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/389
+TR: FILMAX Bilim Kurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/214621
+TR: FILMAX Action HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/385
+TR:  FILMAX Türk HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/387
+TR: FILMAX Aile,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/214620
+TR:  FILMAX FANTASTIK HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/382
+TR: FILMAX Korku HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/383
+TR:  FILMAX COMEDY HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/388
+TR: FILMAX GERILIM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/215164
+TR: FILMAX ROMANTIK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/215165
+TR: FILMAX Drama,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/113523
+TR: FILMAX SAVAS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/215166
+TR: FILMAX Kemal Sunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/113521
+TR: FILMAX Yesilcam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/113522
+TR: b**N B0X 0FFİCE 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/313
+TR: b**N B0X 0FFİCE 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/314
+TR: b**N B*X OFFİCE 3 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/315
+TR: MAX UHD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219317
+TR: MAX HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219316
+TR:  MAX Aksiyon HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10839
+TR: MAX Aksiyon 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10840
+TR: MAX Premier HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10841
+TR: MAX Orjinal HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10842
+TR: MAX Western HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10843
+TR: MAX Hint Filimleri,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10844
+TR: MAX Vizyon HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10845
+TR: MAX Vizyon 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10846
+TR: MAX Vizyon 3 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10847
+TR: MAX Vizyon 4 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10848
+TR: MAX 007 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10849
+TR: MAX STAR WARS HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10850
+TR: MAX TURK HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10851
+TR: MAX KİNO COLLECTİON HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10852
+TR: MAX GOLD HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/10853
+TR: Arenabox-Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219823
+TR: Arenabox-Animasyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219824
+TR: Arenabox-Belgesel,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219825
+TR: Arenabox-BilimKurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219826
+TR: Arenabox-Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219827
+TR: Arenabox-Fantastik,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219828
+TR: Arenabox-Gerilim,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219829
+TR: Arenabox-KemalSunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219830
+TR: Arenabox-Komedi,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219831
+TR: Arenabox-Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219832
+TR: Arenabox-Macera,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219833
+TR: Arenabox-Vizyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219834
+TR: Arenabox-Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219835
+TR: Arenabox-Yeşilçam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219836
+TR: ProTurk-45 Lik,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219837
+TR: ProTurk-4K,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219838
+TR: ProTurk-Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219839
+TR: ProTurk-Animasyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219840
+TR: ProTurk-BilimKurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219841
+TR: ProTurk-Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219842
+TR: ProTurk-Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219843
+TR: ProTurk-Fantastik,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219844
+TR: ProTurk-Gerilim,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219845
+TR: ProTurk-Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219846
+TR: ProTurk-Kemal Sunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219847
+TR: ProTurk-Loca 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219848
+TR: ProTurk-Loca 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219849
+TR: ProTurk-Macera,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219850
+TR: ProTurk-Netflix,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219851
+TR: ProTurk-Orjinal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219852
+TR: ProTurk-Uzakdoğu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219853
+TR: ProTurk-Vizyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219854
+TR: ProTurk-Western,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219855
+TR: ProTurk-Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219856
+TR: ProTurk-Yeşilçam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219857
+TR: Dreambox-Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219873
+TR: Dreambox-Bilimkurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219874
+TR: Dreambox-Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219875
+TR: Dreambox-Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219876
+TR: Dreambox-Fantastic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219877
+TR: Dreambox-Gerilim,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219878
+TR: Dreambox-Kemal Sunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219879
+TR: Dreambox-Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219880
+TR: Dreambox-Macera,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219881
+TR: Dreambox-Nextflix,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219882
+TR: Dreambox-Romantic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219883
+TR: Dreambox-Savaş,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219884
+TR: Dreambox-Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219885
+TR: Dreambox-Yeşilçam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219886
+TR: Megabox-Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219887
+TR: Megabox-Animasyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219888
+TR: Megabox-BilimKurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219889
+TR: Megabox-Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219890
+TR: Megabox-Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219891
+TR: Megabox-Fantastic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219892
+TR: Megabox-Gold,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219893
+TR: Megabox-Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219894
+TR: Megabox-Western,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219895
+TR: Megabox-Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219896
+TR: Megabox-Yeşilçam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219897
+TR: Megabox-Clip,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219898
+TR: Megabox-Ulke Seyehatı,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219899
+TR: Realbox-Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219900
+TR: Realbox-Animasyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219901
+TR: Realbox-BilimKurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219902
+TR: Realbox-Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219903
+TR: Realbox-Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219904
+TR: Realbox-Fantastic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219905
+TR: Realbox-Gerilim,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219906
+TR: Realbox-Hint,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219907
+TR: Realbox-Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219908
+TR: Realbox-Kukili,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219909
+TR: Realbox-Macera,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219910
+TR: Realbox-Niloya,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219911
+TR: Realbox-Pepee,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219912
+TR: Realbox-Rafadan Tayfa,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219913
+TR: Realbox-Şirinler,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219914
+TR: Realbox-Vizyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219915
+TR: Realbox-Western,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219916
+TR: Realbox-Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219917
+TR: Realbox-Yeşilçam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219918
+TR: Megabox-Macera,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219919
+TR: Megabox-Marvel,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219920
+TR: Megabox-Netflix,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219921
+TR: Megabox-Vizyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219922
+TR: Horror 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219923
+TR: Horror 5 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219924
+TR: Horror 2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219925
+TR: Horror 3 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219926
+TR: Horror 4 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219927
+TR: FILMBOX Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219928
+TR: FILMBOX Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219929
+TR: FILMBOX Family,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219930
+TR: FILMBOX Fantastic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219931
+TR: FILMBOX Horror,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219932
+TR: FILMBOX Kemal Sunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219933
+TR: FILMBOX Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219934
+TR: FILMBOX Sicifi,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219935
+TR: FILMBOX Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219936
+TR: FILMBOX Yesilcam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219937
+TR: FIX CINEMA Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219938
+TR: FIX CINEMA Bilm Kurgu,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219939
+TR: FIX CINEMA Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219940
+TR: FIX CINEMA Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219941
+TR: FIX CINEMA Fantastic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219942
+TR: FIX CINEMA Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219943
+TR: FIX CINEMA Macera,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219944
+TR: FIX CINEMA Netflix,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219945
+TR: FIX CINEMA Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219946
+TR: FIX CINEMA Yesilcam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219947
+TR: Global Box Korku,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219948
+TR: Global Box Fantastic,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219949
+TR: Global Box Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219950
+TR: Global Box Comedy,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219951
+TR: Global Box Dram,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219952
+TR: Global Box Vizyon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219953
+TR: Global Box Yerli,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219954
+TR: Global Box Yeşilçam,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219955
+TR: Global Box Kemal Sunal,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219956
+TR: KingBox Action,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219957
+TR: SINEMA AKSIYON HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/335
+TR: REDBOX PREMIERE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/386
+TR: REDBOX VIZYON 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/390
+TR: REDBOX VIZYON 2  HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/396
+TR: REDBOX SINEMA TURK 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/391
+TR: REDBOX SINEMA TURK  2 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/399
+TR: REDBOX ACTIE 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/392
+TR: REDBOX BILIMKURGU 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/393
+TR: REDBOX HORROR 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/394
+TR: REDBOX MIX 1 HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/395
+TR: REDBOX DRAMA HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/398
+TR: Yesilcam Sinema HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/37975
+TR: Kemal Sunal TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/397
+TR: YESILCAM ZEKMET TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185301
+TR: DINAMIK VIZYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185217
+TR: DINAMIK AKSIYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185218
+TR: DINAMIK BILIMKURGU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185219
+TR: DINAMIK BOX-SET,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185220
+TR: DINAMIK DRAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185222
+TR: DINAMIK IMBD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185223
+TR: DINAMIK TURK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185224
+TR: DINAMIK KOMEDI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185225
+TR: DINAMIK KORKU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185226
+TR: DINAMIK LOCA 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185227
+TR: DINAMIK LOCA 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185228
+TR: DINAMIK LOCA 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185229
+TR: DINAMIK YESILCAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185230
+TR: DINAMIK ANIMASYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185231
+TR: DINAMIK SAVAS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185233
+TR: DINAMIK UZAKDOGU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185234
+TR: DINAMIK KEMAL SUNAL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185235
+TR: DINAMIK SENER SEN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185236
+TR: DINAMIK WESTERN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185237
+TR: DINAMIK MARVEL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185238
+TR: DINAMIK MUZIK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185239
+TR: DINAMIK HABABAM SINIFI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185240
+TR: DINAMIK SALON 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185241
+TR: DINAMIK SALON 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185242
+TR: DINAMIK SALON 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185243
+TR: DINAMIK SALON 4,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185244
+TR: DINAMIK SALON 5,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185245
+TR: DINAMIK SALON 6,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185246
+TR: DINAMIK SALON 7,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185247
+TR: DINAMIK SALON 8,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185248
+TR: DINAMIK SALON 9,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185249
+TR: DINAMIK SALON 10,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185250
+TR: ULTRA HD AKSIYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185251
+TR: ULTRA HD ANIMASYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185252
+TR: ULTRA HD BILIMKURGU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185253
+TR: ULTRA HD KEMAL SUNAL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185255
+TR: ULTRA HD KOMEDI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185256
+TR: ULTRA HD KORKU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185257
+TR: ULTRA HD SAVAS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185258
+TR: ULTRA HD TURK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185259
+TR: ULTRA ANIMASYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185305
+TR: DREAM bieN OFFE 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185262
+TR: DREAM bieN OFFE 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185263
+TR: DREAM bieN OFFE 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185264
+TR: DREAM bieN OFFE 4,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185265
+TR: DREAM b**N OFFE 5,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185266
+TR: DREAM b**N OFFE 6,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185267
+TR: DREAM b**N OFFE 7,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185268
+TR: DREAM b**N OFFE 8,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185269
+TR: DREAM b**N OFFE 9,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185270
+TR: DREAM b**N OFFE 10,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185271
+TR: DREAM BILIMKURGU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185272
+TR: DREAM BOX-SET,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185273
+TR: DREAM WESTERN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185302
+TR: DREAM NETFLIX,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185304
+TR: DREAM TURK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185260
+TR: DREAM SAVAS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185261
+TR: DREAM DRAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185274
+TR: DREAM KEMAL SUNAL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185275
+TR: DREAM KOMEDI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185276
+TR: DREAM AKSIYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185277
+TR: DREAM ANIMASYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185278
+TR: DREAM KORKU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185279
+TR: DREAM LOCA 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185280
+TR: DREAM LOCA 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185281
+TR: DREAM LOCA 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185282
+TR: BEST AKSIYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185283
+TR: BEST TURK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185284
+TR: BEST NETFLIX,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185221
+TR: BEST KOMEDI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185285
+TR: BEST KORKU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185286
+TR: BEST IMBD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185287
+TR: BEST BILIMKURGU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185288
+TR: BEST DRAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185289
+TR: BEST SAVA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185290
+TR: BEST ANASYON,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185291
+TR: BEST YESILCAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185292
+TR: BEST HABABAM SINIFI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185298
+TR: BEST WESTERN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185232
+TR: BEST LOCA 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185293
+TR: BEST LOCA 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185294
+TR: BEST LOCA 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185295
+TR: BEST SALON 1,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185299
+TR: BEST SALON 2,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185296
+TR: BEST SALON 3,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185297
+TR: DIZIAX KONUSANLAR,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142089
+TR: DIZIAX House Of Dragon,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142087
+TR : DIZIAX THE LAST OF US,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/268849
+TR: TR: DIZIAX LOTR Guc Yuzukleri,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142124
+TR: DIZIAX Game of Thrones,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106608
+TR: DIZIAX TolgShow,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219434
+TR: DIZIAX Gibi,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219435
+TR: DIZIAX Sadece Arkadasiz,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219436
+ TR: DIZIAX Sizi Dinliyorum,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219437
+TR: DIZIAX Leyla ile Mecnun,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/219438
+TR: DIZIAX AYNEN AYNEN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/266803
+TR : DIZIAX CEKIC VE GUL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/266804
+TR : DIZIAX AYAK ISLERI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/266805
+TR: DIZIAX Cukur HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106604
+TR: DIZIAX S1F1R B1R ADANA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124281
+TR: DIZIAX Sokagin Cocuklari,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124282
+TR: DİZİAX Atiye,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106623
+TR: EXXEN ERSAN KUNTERI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/114889
+TR: DIZIAX Ask Memnu HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106605
+TR: DIZIAX Kurtlar Vadisi,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106606
+TR: DIZIAX Cocuklar Duymasin,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/106607
+TR: DIZIAX Suskunlar,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124283
+TR: DIZIAX Yilan Hikayesi,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124284
+TR: DIZIAX Sadakatsiz,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/124285
+TR: DIZIAX Behzat Ç,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142084
+TR: DIZIAX Alemin Kralı,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142085
+TR: DIZIAX Jet Sosyete,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142086
+TR: DIZIAX Diriliş Ertuğrul,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142088
+TR: DIZIAX EKMEK TEKNESI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142090
+TR: DIZIAX NICOLAS CAGE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142092
+TR: DIZIAX BRAD PITT,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142093
+TR: DIZIAX TOM CRUISE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142094
+TR: DIZIAX  BRUCE WILLS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142095
+TR: DIZIAX SYLVESTER STALLONE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142096
+TR: DIZIAX JETLI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142097
+TR: DIZIAX JASON STATHAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142098
+TR: DIZIAX JACKY CHAN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142099
+TR: DIZIAX VAN DAMME,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142100
+TR: DIZIAX CAMERON DIAZ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142101
+TR: DIZIAX ARNOLD SCHWARZENEGGER,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142102
+TR: DIZIAX ANGELINE JOLIE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142103
+TR: DIZIAX ALPACINO,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142104
+TR: DIZIAX SUSKUNLAR,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142105
+TR: DIZIAX DAREDEVIL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142106
+TR: DIZIAX DARK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142107
+TR: DIZIAX BINBIR GECE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142108
+TR: DIZIAX YARGI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142109
+TR: DIZIAX LA CASA DE PAPEL,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142110
+TR: DIZIAX BLACKLIST,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142111
+TR: DIZIAX NARCOS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142112
+TR: DIZIAX OZARK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142113
+TR: DIZIAX PRISON BREAK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142114
+TR: DIZIAX THE WALKING DEAD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142115
+TR: DIZIAX Stranger Things,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142116
+TR: DIZIAX VAN HELSING,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142117
+TR: DIZIAX VIKINGS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142118
+TR: DIZIAX LOST IN SPACE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142119
+TR: DIZIAX LUCIFER,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142120
+TR: DIZIAX FLASH,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142121
+TR: DIZIAX ELITE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142122
+TR: DIZIAX El Chapo,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142123
+TR: DIZIAX BLINDSPOT,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142125
+TR: DIZIAX BRUCE LEE TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142126
+TR: DIZIAX Designated Survivor,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142127
+TR: DIZIAX KOBRA KAİ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142128
+TR: DIZIAX 007 JAMES BOND,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142129
+TR: DIZIAX HARRY POTTER,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142130
+TR: DIZIAX ROCKY BALBOA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142131
+TR: DIZIAX RECEP IVEDIK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142132
+TR: DIZIAX ALACAKARANLIK EFSANESI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142133
+TR: DIZIAX ÖLÜMCÜL DENEY,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142134
+TR: DIZIAX HOBBIT TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142135
+TR: DIZIAX BATMAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142138
+TR: DIZIAX SUPERMAN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142136
+TR: DIZIAX ORUMCEK ADAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142137
+TR: DIZIAX KARAYIP KORSANLARI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142139
+TR: DIZIAX ZOR OLUM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142140
+TR: DIZIAX CEHENNEM SILAHI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142141
+TR: DIZIAX SON DURAK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142142
+TR: DIZIAX POLIS AKEDEMISI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142143
+TR: DIZIAX TESTERE SAW,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142144
+TR: DIZIAX TERMINATOR TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142145
+TR: DIZIAX X-MEN TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142146
+TR: DIZIAX 13.CUMA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142147
+TR: DIZIAX TRANSFORMERS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142148
+TR: DIZIAX MUMYA,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142149
+TR: DIZIAX THE BOURNE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142150
+TR: DIZIAX THE MATRİX,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142151
+TR: DIZIAX STAR TREK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142152
+TR: DIZIAX MAYMUNLAR CEHENEMI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142153
+TR: DIZIAX ALIEN VS PREDATOR,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142154
+TR: DIZIAX RAMBO,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142155
+TR: DIZIAX MASKELI BESLER,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142156
+TR: DIZIAX CILGIN DERSHANE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142157
+TR: DIZIAX KARANLIKLAR ULKESI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142158
+TR: DIZIAX IP-MAN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142159
+TR: DIZIAX SAKARYA FIRAT,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142185
+TR: DIZIAX CAMDAKİ KIZ,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260492
+TR: DIZIAX KARDESLERIM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260493
+TR: DIZIAX BEN BU CIHANA SIGMAM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260494
+TR: DIZIAX UC KIZ KARDES,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260495
+TR: DIZIAX UC KURUS,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260496
+TR: DIZIAX ICERDE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260497
+TR: DIZIAX HATIRLA SEVGILI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260498
+TR: DIZIAX GUZEL KOYLU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260499
+TR: DIZIAX ELVEDA RUMELI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260500
+TR: DIZIAX YILAN HIKAYESI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/142083
+TR: DIZIAX COCUK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260501
+TR: DIZIAX BENIM ADIM MELEK,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260502
+TR: DIZIAX AVLU,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260503
+TR: DIZIAC ANNE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260504
+TR: DIZIAX ALEV ALEV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260505
+TR: DIZIAX AKREP,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/260506
+TR: DIZIAX Hercai,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/115460
+TR: DIZIAX Cicek Taxi,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/115461
+TR: DIZIAX Bin Bir Gece,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/123358
+TR: DIZIAX Ezel,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/123359
+TR: DIZIAX Masumlar Apartmani,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/123360
+TR: DIZIAX Kirmizi Oda,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/123361
+TR: DIYANET TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/474
+TR: REHBER TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/477
+TR: DOST TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/478
+TR: FM TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/479
+TR: TV5,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/481
+TR: SEMERKAND TV HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/483
+TR: LALEGUL TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/4189
+TR: KABE TV CANLI,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/7551
+TR: Meltem TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/57556
+TR: KUDUS TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/57557
+TR: FMTV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/57558
+TR: GONCA TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/57559
+TR: Kardelen TV,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/60899
+TR: HZ YUSUF,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185306
+TR: AL SUNNAH AL NABAWIYAH HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185307
+TR: HZ MERYEM,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185308
+TR: HASAN VE HUSEYIN,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185309
+TR: HZ OMER,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185310
+TR: AL QURAN AL KAREEM HD,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185311
+TR: YUNUS EMRE,http://de-local.cc:8080/hVnfcVZUKk/PcRycbEQy3/185312
  ID HD TR,https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
  ID FHD TR,https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
  BLUPLAY 1 HD,https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
