@@ -2,7 +2,7 @@
 💞4K 8K,#genre#
 4K60PSDR-H264-AAC测试,http://159.75.85.63:5680/d/ad/h264/playad.m3u8
 4K60PHLG-HEVC-EAC3测试,http://159.75.85.63:5680/d/ad/playad.m3u8
-BTV纪实科教-8KSDR源,http://downlive.brtvcloud.com/jpegxs1510/8kzuiqingxi.m3u8
+BTV纪实科教-8KSDR源,http://downlive.brtvcloud.com/8k1010/tebieniu.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 欢笑剧场4K,http://118.24.227.124/__cl/cg:live/__c/hxjc_4K/__op/default/__f/index.m3u8
