@@ -28379,7 +28379,8 @@ BBC One West Midlands,https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:p
 TRT1 ᵁᴴᴰ⁺,https://ddc75c8a6akqr.cloudfront.net/v1/master/80dbfc318ab6b980679b32095ba497236de6d2f9/TRT-1/master.m3u8
  TRT 2 FHD,http://167.114.115.233:8080/trt2fhd/index.m3u8
  TRT3 Türk,https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
- TRT4 AVAZ,https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+TV4,https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+ TRT5 AVAZ,https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
 KANAL 7 ᵁᴴᴰ⁺,https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8|User-Agent=Lavf53.32.100 
 KANAL 7 AVRUPA FHD,https://live.kanal7.com/live/kanal7AvrupaLive/index.m3u8
 TEBER STAR1 ,http://iptvh.it/T.star1
@@ -28388,6 +28389,8 @@ TEBER DEM TV,http://iptvh.it/Teber_DEM
 TEBER ON TV,http://iptvh.it/t.on
  TELEON TV HD,https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
 VRT HD,http://iptvh.it/vrt.hd
+ M TURK TV,http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
+ OA TV HD,https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 RIZE TÜRK,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
  HACI BEKTAŞ TV HD,http://tv86905.radyotelekomtv.com:22808/hacibektastv/hacibektastv/sec-f5-v1-a1.m3u8
 İLK GÜN TV,https://bit.ly/3y5WuL8
@@ -28400,13 +28403,12 @@ FLASH HABER TV HD,https://stream.guventechnology.com:19360/flashtv/flashtv.m3u8
  KRT TV HD ,http://135.125.234.9:8081/krttv/index.m3u8
  KARADENiZ 28 TV HD,http://91.134.203.253:30124/karadeniz/karadeniz/sec-f5-v1-a1.m3u8
  KARAPINAR MEDYA TV,http://91.134.203.253:30124/karapinar/karapinar/sec-f5-v1-a1.m3u8
- MUGLA TURK TV,http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
  YANSIMA SİNEMA TV,https://5e06e5e8c2e27.streamlock.net:1936/videonow/yansinematvs/chunklist_w1968217333.m3u8
  YANSIMA KLASİK TV,https://live-server-2.splitstream.io/7b3b9e34-626f-4562-92ea-9adcac520468/tracks-v1a1/mono.m3u8
  TGRT EU,https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
  EM TV,http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
 TV48,https://ajansplay.com:5443/LiveApp/streams/tv48.m3u8
- CINE1 TV,https://is.gd/8nnZlr/cıne1.m3u8
+ CINE1 TV,https://live.artidijitalmedya.com/artidijital_cine1/cine1/chunks.m3u8
 BEYAZ TV ᵁᴴᴰ⁺,https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8|User-Agent=Lavf53.32.100 
 FOX ᵁᴴᴰ⁺ https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8, ATV AVRUPA,http://62.182.82.104/atv_turk/index.m3u8?token=test
 ATV ᵁᴴᴰ⁺™,http://195.142.1.211:4022/udp/224.2.2.19:10001|User-Agent=Lavf53.32.100 
@@ -28426,8 +28428,7 @@ TV8'5 ᵁᴴᴰ⁺,http://195.142.1.211:4022/udp/224.2.2.34:10001|User-Agent=Lav
  Tokat TV,https://cdn10-tokattv.yayin.com.tr/tokattv/tokattv/playlist.m3u8
  Boztepe TV,https://broadcasttr.com:446/btv/bant1/chunklist_w287512980.m3u8
 Bartın TV,http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
- SUPER TURK HD,http://157.230.106.252:3923/hybrid/play.m3u8
- SUPER TURK HD YEDEK,http://157.230.106.252:3923/stream/play.m3u8
+ Öncü TV,https://broadcasttr.com:446/oncurtv/bant1/chunklist_w658442161.m3u8
  ID HD TR,https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master.m3u8
  ID FHD TR,https://dnx8nkmlprapr.cloudfront.net/out/v1/c9e1c183395d4d29a9fa34ecdef4163b/master_3.m3u8
  BLUPLAY 1 HD,https://mn-nl.mncdn.com/blutv_play1_dvr/live.m3u8
@@ -28438,8 +28439,6 @@ tiviTÜRK ,https://stream.tiviturk.de/live/tiviturk.m3u8
  KAÇKAR TV,http://149.62.177.140:8000/play/a00g/index.m3u8
 ANADOLU D.TV,http://149.62.177.140:8000/play/a00w/index.m3u8
  ZAZA TV,http://149.62.177.140:8000/play/a00o/index.m3u8
- Öncü TV,https://broadcasttr.com:446/oncurtv/bant1/chunklist_w658442161.m3u8
-TV4,https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
  ATV alanya,https://broadcasttr.com:446/alanyatv/bant1/chunklist.m3u8
 TVA,http://yerelmedya.tv:1935/tva/bant1/playlist.m3u8
  Aras TV,http://1.rtmp.org/tv217/yayin.stream/chunklist_w1620641153.m3u8
@@ -28719,7 +28718,6 @@ beIN SPORTS MAX 4 SD QA,http://45.12.1.14:80/BlIm21564/agf7Fp264/116135
  iSViCRE TV HD,http://tv56245.ozelip.com:2052/isvicretv/isvicretv/supersatforum_chunklist.m3u8
  NTN YESiLCAM HD,https://tv.ntnhd.com:3588/multi_web/play_720.m3u8
  NTN DiSCOVERY HD,https://tv.ntnhd.com:3189/multi_web/play_720.m3u8
- OA TV HD,https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
  RiZE TURK TV HD,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
  SKY HABER TV HD,https://cdn1-skyhabertv.yayin.com.tr/skyhabertv/skyhabertv/chunklist_w1126474240_b1996000.m3u8
  TV EM,http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
@@ -30484,7 +30482,6 @@ beIN SPORTS MAX 4 SD QA,http://45.12.1.14:80/BlIm21564/agf7Fp264/116135
  RUSYA SOCHi Laura Kayak,http://sochi.camera:8080/cam_108/index.m3u8?token=null
  RUSYA SOCHi Gagarin Caykovski,http://sochi.camera:8080/cam_105/index.m3u8?token=null
  RUSYA SOCHi Gagarin Kargo Alani,http://sochi.camera:8080/cam_106/index.m3u8?token=null
- NELER YENiLENDi,http://134.122.73.67:25461/live/elit_supersat2/ozeliptvstream/41.m3u8
 
 💞成人集合1,#genre#
 一日女友的漂亮姐姐 上,https://ypmnkbb.saejeuj.com/api/app/media/m3u8/av/ph/gr/7v/78/af7b145ecae246b2ac79cecb6f47f6ad.m3u8?
