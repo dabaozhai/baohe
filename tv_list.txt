@@ -28387,7 +28387,11 @@ TEBER STAR2,http://iptvh.it/t.star2
 TEBER DEM TV,http://iptvh.it/Teber_DEM
 TEBER ON TV,http://iptvh.it/t.on
  TELEON TV HD,https://streaming.netdirekt.com.tr/35757/teleontv/teleonmediagroup_canliyayin_4kultrahd_/chunks.m3u8
+DEM int TV,http://77.68.121.3/hls/stream.m3u8
+SAM TV,https://cdn-365tv.yayin.com.tr/365tv/365tv/chunklist_w1490648656.m3u8
 VRT HD,http://iptvh.it/vrt.hd
+TOKAT TV,https://cdn-tokattvwebtv.yayin.com.tr/tokattvwebtv/tokattvwebtv/chunklist.m3u8
+BÜLTEN TV,https://cdn1-bultentv.yayin.com.tr/bultentv/bultentv/chunklist_w886123543_b1996000.m3u8
  M TURK TV,http://broadcasttr.com:1935/muglaturk/bant1/playlist.m3u8
  OA TV HD,https://cdn-oatasoytv.yayin.com.tr/oatasoytv/oatasoytv/chunklist_w1202525982.m3u8
 RIZE TÜRK,https://yayin.rizeturk.com:3777/multi_web/play.m3u8
